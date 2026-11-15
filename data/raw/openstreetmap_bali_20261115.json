@@ -1,0 +1,8603 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-11-15T12:52:13Z",
+    "timestamp_areas_base": "2026-11-15T10:31:57Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 275573942,
+  "lat": -8.1757085,
+  "lon": 115.1063602,
+  "tags": {
+    "name": "Small Beautiful Waterfall",
+    "tourism": "attraction",
+    "waterway": "waterfall"
+  }
+},
+{
+  "type": "node",
+  "id": 597770793,
+  "lat": -8.6195583,
+  "lon": 115.0862907,
+  "tags": {
+    "direction": "160",
+    "name": "Sunrise viewpoint of Tanah Lot Temple",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 603098166,
+  "lat": -8.5912665,
+  "lon": 115.2645421,
+  "tags": {
+    "addr:city": "Gianyar , Bali",
+    "addr:postcode": "80582",
+    "addr:street": "Jalan Raya Singapadu",
+    "ele": "85.20",
+    "name": "Bali Zoo",
+    "opening_hours": "09:00-18:00",
+    "phone": "+62 36-1294356",
+    "tourism": "zoo",
+    "website": "https://www.bali-zoo.com/",
+    "wpt_description": "30-DEC-09 10:30:20AM"
+  }
+},
+{
+  "type": "node",
+  "id": 641637893,
+  "lat": -8.4794589,
+  "lon": 115.1346292,
+  "tags": {
+    "ele": "227.48",
+    "leisure": "park",
+    "name": "Bali Butterfly Park",
+    "opening_hours": "08:00-17:00",
+    "phone": "+62 361 814282; +62 361 814283",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 838277764,
+  "lat": -8.5444662,
+  "lon": 115.1384002,
+  "tags": {
+    "name": "Museum Subak",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 945204760,
+  "lat": -8.8085988,
+  "lon": 115.1671471,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 945590562,
+  "lat": -8.8177858,
+  "lon": 115.1638782,
+  "tags": {
+    "name": "Paintball",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 989867608,
+  "lat": -8.7401106,
+  "lon": 115.2371004,
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "Pura Susunan Wadonan",
+    "name:id": "Pura Susunan Wadonan",
+    "religion": "hindu",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 989944122,
+  "lat": -8.6111344,
+  "lon": 115.2596437,
+  "tags": {
+    "name": "Taman Burung Bali Bird Park",
+    "opening_hours": "09:00-17:00",
+    "tourism": "zoo"
+  }
+},
+{
+  "type": "node",
+  "id": 989944131,
+  "lat": -8.5119445,
+  "lon": 115.2997459,
+  "tags": {
+    "name": "Museum Purbakala",
+    "opening_hours": "Mo-Th 08:00-15:00; Fr 08:00-12:00",
+    "phone": "+62-361-942354",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 990920855,
+  "lat": -8.1673086,
+  "lon": 114.4406786,
+  "tags": {
+    "int_name": "Museum of Prehistoric Man",
+    "name": "Museum Situs Purbakala",
+    "opening_hours": "Mo-Fr 08:00-15:00",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 1034636100,
+  "lat": -8.8441872,
+  "lon": 115.1350318,
+  "tags": {
+    "name": "close. private resort",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 1039063536,
+  "lat": -8.5996054,
+  "lon": 115.2517444,
+  "tags": {
+    "name": "Bali Reptile Park",
+    "opening_hours": "09:00-18:00",
+    "tourism": "zoo",
+    "website": "https://balireptilepark.id/"
+  }
+},
+{
+  "type": "node",
+  "id": 1070188647,
+  "lat": -8.2705078,
+  "lon": 115.1385786,
+  "tags": {
+    "ele": "1909",
+    "geological": "volcanic_vent",
+    "gns:dsg": "MT",
+    "name": "Gunung Tapak",
+    "natural": "peak",
+    "source": "gps",
+    "tourism": "viewpoint",
+    "wikidata": "Q25291291"
+  }
+},
+{
+  "type": "node",
+  "id": 1291265289,
+  "lat": -8.3379718,
+  "lon": 115.6626142,
+  "tags": {
+    "access": "private",
+    "name": "Lookout Over Bay",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 1314435549,
+  "lat": -8.1403890,
+  "lon": 114.6463445,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 1314447131,
+  "lat": -8.2461063,
+  "lon": 115.1007843,
+  "tags": {
+    "description": "View on the lake",
+    "name": "Twin Lake",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 1314447133,
+  "lat": -8.2579171,
+  "lon": 115.0744462,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 1374638551,
+  "lat": -8.3922105,
+  "lon": 115.2842582,
+  "tags": {
+    "name": "Elephant Park",
+    "tourism": "zoo",
+    "wikidata": "Q4850846",
+    "wikimedia_commons": "Category:Bali Safari and Marine Park",
+    "wikipedia": "en:Bali Safari and Marine Park"
+  }
+},
+{
+  "type": "node",
+  "id": 1416886167,
+  "lat": -8.6518689,
+  "lon": 115.1213899,
+  "tags": {
+    "name": "Pererenan Beach",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 1443635576,
+  "lat": -8.7241003,
+  "lon": 115.2381114,
+  "tags": {
+    "addr:city": "Denpasar",
+    "addr:postcode": "80229",
+    "addr:province": "Bali",
+    "addr:subdistrict": "Serangan",
+    "amenity": "animal_shelter",
+    "name": "Turtle Conservation And Education Center",
+    "name:en": "Turtle Conservation And Education Center",
+    "name:id": "Turtle Conservation And Education Center",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 1454965010,
+  "lat": -8.5752294,
+  "lon": 115.2907014,
+  "tags": {
+    "name": "Tegenungan Blangsinga",
+    "name:en": "Tegenungan Blangsinga Waterfall",
+    "name:id": "Air Terjun Tegenungan Blangsinga",
+    "name:ru": "Водопад Тегенунган",
+    "tourism": "attraction",
+    "waterway": "waterfall"
+  }
+},
+{
+  "type": "node",
+  "id": 1533609374,
+  "lat": -8.6720470,
+  "lon": 115.2588483,
+  "tags": {
+    "name": "Taman Kota",
+    "opening_hours": "24/7",
+    "tourism": "theme_park"
+  }
+},
+{
+  "type": "node",
+  "id": 1726055215,
+  "lat": -8.8419723,
+  "lon": 115.1920082,
+  "tags": {
+    "name": "Bukit Timbis Paragliding launch site",
+    "sport": "free_flying",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 1768348788,
+  "lat": -8.2829007,
+  "lon": 115.3647118,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 1805927864,
+  "lat": -8.2922007,
+  "lon": 115.3892977,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 1979219886,
+  "lat": -8.2838776,
+  "lon": 115.3644705,
+  "tags": {
+    "name": "Museum Gunung Batur (Volcano Batur)",
+    "tourism": "museum",
+    "website": "http://www.facebook.com/pages/Museum-Gunung-Api-Batur-MGAB/246683745430216"
+  }
+},
+{
+  "type": "node",
+  "id": 1990968227,
+  "lat": -8.3470736,
+  "lon": 115.5077936,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 2031494034,
+  "lat": -8.5048652,
+  "lon": 115.2539630,
+  "tags": {
+    "name": "Don Antonio Blanco Museum",
+    "opening_hours": "Mo-Su 09:00-17:00",
+    "tourism": "museum",
+    "website": "http://blancomuseum.com",
+    "wikidata": "Q4924960",
+    "wikipedia": "en:Blanco Renaissance Museum"
+  }
+},
+{
+  "type": "node",
+  "id": 2047754415,
+  "lat": -8.4276080,
+  "lon": 115.2792402,
+  "tags": {
+    "description": "Rice Terraces",
+    "name": "Abian desa Rice Terrace",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 2111193754,
+  "lat": -8.2580879,
+  "lon": 115.0746848,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 2111194728,
+  "lat": -8.4726950,
+  "lon": 114.9705254,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 2113160386,
+  "lat": -8.4282933,
+  "lon": 115.2315853,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 2142187608,
+  "lat": -8.4135324,
+  "lon": 115.2302428,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 2154599548,
+  "lat": -8.6907635,
+  "lon": 115.4292858,
+  "tags": {
+    "direction": "237",
+    "name": "Devil's Tear",
+    "name:en": "Devil's Tear",
+    "name:nl": "Devils Tear",
+    "name:zh": "恶魔的眼泪",
+    "name:zh-Hans": "恶魔的眼泪",
+    "name:zh-Hant": "惡魔的眼淚",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 2216187745,
+  "lat": -8.3420589,
+  "lon": 115.5114633,
+  "tags": {
+    "name": "Gunung Agung, East Peak, 2940 m",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 2325016855,
+  "lat": -8.5339090,
+  "lon": 115.2795977,
+  "tags": {
+    "addr:street": "Jalan Tegal Bingin",
+    "museum": "art",
+    "name": "Setia Darma",
+    "name:en": "Setia darma house of masks and puppets",
+    "name:id": "Rumah Topeng dan Wayang Setia Darma",
+    "source": "GPS & visit",
+    "tourism": "museum",
+    "website": "https://www.maskandpuppets.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 2415624445,
+  "lat": -8.5085780,
+  "lon": 115.5644710,
+  "tags": {
+    "name": "View point",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 2477303905,
+  "lat": -8.6758840,
+  "lon": 115.5104987,
+  "tags": {
+    "name": "Friends of the National Parks Foundation",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 2480654035,
+  "lat": -8.2739054,
+  "lon": 115.5926122,
+  "tags": {
+    "description": "From underwater 4m down to 35m",
+    "name": "USAT Liberty Wreck",
+    "scuba_diving:type:apnoe": "yes",
+    "scuba_diving:type:attraction": "yes",
+    "scuba_diving:type:reef": "yes",
+    "sport": "scuba_diving",
+    "tourism": "attraction",
+    "wikidata": "Q2468064",
+    "wikimedia_commons": "Category:USAT Liberty (ship, 1918)",
+    "wikipedia": "en:USAT Liberty"
+  }
+},
+{
+  "type": "node",
+  "id": 2483312803,
+  "lat": -8.7142647,
+  "lon": 115.1867151,
+  "tags": {
+    "name": "Bali Shell Museum",
+    "name:zh": "巴厘贝壳博物馆",
+    "tourism": "museum",
+    "wikidata": "Q1992789",
+    "wikimedia_commons": "Category:Bali Museum",
+    "wikipedia": "en:Bali Museum"
+  }
+},
+{
+  "type": "node",
+  "id": 2484770644,
+  "lat": -8.2751982,
+  "lon": 115.3787398,
+  "tags": {
+    "name": "Lago batur",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 2487421580,
+  "lat": -8.2961347,
+  "lon": 115.1755571,
+  "tags": {
+    "image": "https://photos.app.goo.gl/cyPvWxDrEfgYxRbh8",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 2488178046,
+  "lat": -8.7093439,
+  "lon": 115.1838827,
+  "tags": {
+    "name": "Becak museum",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 2504240680,
+  "lat": -8.5153586,
+  "lon": 115.2786916,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 2721145661,
+  "lat": -8.7677195,
+  "lon": 115.4866670,
+  "tags": {
+    "name": "Banah Cliff sunset point",
+    "name:en": "Banah Cliff",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 2730888146,
+  "lat": -8.7331050,
+  "lon": 115.4504358,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 2845925811,
+  "lat": -8.3777651,
+  "lon": 115.2569064,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 2881458405,
+  "lat": -8.4910297,
+  "lon": 115.2414423,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 2907339692,
+  "lat": -8.7947861,
+  "lon": 115.5259217,
+  "tags": {
+    "ele": "-13",
+    "name": "Manta Point",
+    "sport": "scuba_diving",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 2908793163,
+  "lat": -8.6807873,
+  "lon": 115.4468990,
+  "tags": {
+    "description:en": "View over Jungut Batut",
+    "name": "Panorama Point",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 2969866045,
+  "lat": -8.3376207,
+  "lon": 115.6610709,
+  "tags": {
+    "name": "Underwater Shrine",
+    "scuba_diving:depth": "29",
+    "scuba_diving:type": "artificial_reef",
+    "sport": "scuba_diving",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 3190958658,
+  "lat": -8.4586825,
+  "lon": 115.2938717,
+  "tags": {
+    "name": "Lonely spot with nice view on forest",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 3264937218,
+  "lat": -8.6632327,
+  "lon": 115.2406592,
+  "tags": {
+    "addr:city": "Denpasar",
+    "addr:street": "Jalan Hayam Wuruk",
+    "name": "Museum Sidik Jari",
+    "opening_hours": "09:00-14:00",
+    "tourism": "museum",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3299579439,
+  "lat": -8.2172888,
+  "lon": 114.9651021,
+  "tags": {
+    "name": "Batu Gundul",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 3329762090,
+  "lat": -8.5525332,
+  "lon": 115.3814122,
+  "tags": {
+    "name": "Goa Jepang",
+    "name:en": "Japanese caves",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 3426126571,
+  "lat": -8.7236794,
+  "lon": 115.4482158,
+  "tags": {
+    "name": "Pasih",
+    "name:en": "Pasih Andus",
+    "name:pl": "Pasih Andus",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 3426141994,
+  "lat": -8.7525232,
+  "lon": 115.4768886,
+  "tags": {
+    "name": "Kelingking sunset view point",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 3546095982,
+  "lat": -8.4889213,
+  "lon": 115.2536798,
+  "tags": {
+    "name": "Naka Contemporary Art Gallery",
+    "tourism": "gallery",
+    "wikidata": "Q924394",
+    "wikimedia_commons": "Category:Neka Art Museum",
+    "wikipedia": "en:Neka Art Museum"
+  }
+},
+{
+  "type": "node",
+  "id": 3739885126,
+  "lat": -8.5855431,
+  "lon": 115.3471842,
+  "tags": {
+    "name": "Gunung Sari Luwak Coffee",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 3758567210,
+  "lat": -8.8038469,
+  "lon": 115.2387462,
+  "tags": {
+    "natural": "blowhole",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 3761412242,
+  "lat": -8.5052673,
+  "lon": 115.2617525,
+  "tags": {
+    "name": "Han Snel",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "node",
+  "id": 3761415378,
+  "lat": -8.5010850,
+  "lon": 115.2618030,
+  "tags": {
+    "name": "Coco Wayan",
+    "phone": "+62 857 3848 1121",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 3803651631,
+  "lat": -8.8455531,
+  "lon": 115.1856267,
+  "tags": {
+    "name": "Canoe Rental",
+    "sport": "canoe",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 3872528177,
+  "lat": -8.3249309,
+  "lon": 115.2760060,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 3910937656,
+  "lat": -8.5895526,
+  "lon": 115.2536751,
+  "tags": {
+    "alt_name": "Luwak Coffee",
+    "name": "AlamSari Agrotourism",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 3912876646,
+  "lat": -8.6210701,
+  "lon": 115.0875321,
+  "tags": {
+    "direction": "250",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 3948409714,
+  "lat": -8.2626438,
+  "lon": 115.0623076,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4023282547,
+  "lat": -8.1580622,
+  "lon": 114.6625978,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4041529043,
+  "lat": -8.3555514,
+  "lon": 115.1567050,
+  "tags": {
+    "description": "Hot Spring, Very nice with waterfall, 35.000 Rp p.p. (03/2016)",
+    "drinking_water": "no",
+    "name": "Air Panas Angseri",
+    "natural": "spring",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4060953933,
+  "lat": -8.1782652,
+  "lon": 115.1829309,
+  "tags": {
+    "name": "Upper Point Waterfall",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4074379367,
+  "lat": -8.5035648,
+  "lon": 115.2627383,
+  "tags": {
+    "addr:housenumber": "24",
+    "addr:street": "Jalan Kajeng",
+    "description": "Indonesian Textile Arts Center",
+    "fee": "no",
+    "name": "Threads oh Live",
+    "opening_hours": "Mo-Su 10:00-17:00",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "node",
+  "id": 4082266848,
+  "lat": -8.8445728,
+  "lon": 115.1082023,
+  "tags": {
+    "name": "Ship hull",
+    "seamark:type": "wreck",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4082266849,
+  "lat": -8.8448326,
+  "lon": 115.1088034,
+  "tags": {
+    "name": "Ship hull",
+    "seamark:type": "wreck",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4109657408,
+  "lat": -8.8430221,
+  "lon": 115.1103949,
+  "tags": {
+    "description": "Viewpoint towards the west, powerful image of the beach.",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4112904889,
+  "lat": -8.3641872,
+  "lon": 115.7004334,
+  "tags": {
+    "description": "Underwater 5m, with a buoyant ball on top",
+    "name": "Japanese shipwreck Banyuning",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4131909690,
+  "lat": -8.2407236,
+  "lon": 115.3796729,
+  "tags": {
+    "name": "Sunrise Point",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4143943605,
+  "lat": -8.5204563,
+  "lon": 115.3585837,
+  "tags": {
+    "description": "Rafting and elephant riding, also other facilities like massage, food and shower.",
+    "name": "Bakas Adventure",
+    "tourism": "attraction",
+    "website": "http://www.bakasadventure.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 4150323706,
+  "lat": -8.2515193,
+  "lon": 115.4265853,
+  "tags": {
+    "name": "Point of view",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4182008490,
+  "lat": -8.6551804,
+  "lon": 115.1674091,
+  "tags": {
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4214699389,
+  "lat": -8.2686180,
+  "lon": 114.9672541,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4214749289,
+  "lat": -8.2458278,
+  "lon": 114.9666541,
+  "tags": {
+    "name": "Mayong trail info",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4227282103,
+  "lat": -8.5109240,
+  "lon": 115.5723731,
+  "tags": {
+    "name": "Lotus Lagoon",
+    "name:en": "Lotus Lagoon",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4239142489,
+  "lat": -8.4873420,
+  "lon": 115.5469947,
+  "tags": {
+    "addr:street": "Pekarangan",
+    "name": "Lapangan Volly",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4243915389,
+  "lat": -8.7030199,
+  "lon": 115.4397315,
+  "tags": {
+    "name": "Dream point",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4258058024,
+  "lat": -8.6719908,
+  "lon": 115.1644876,
+  "tags": {
+    "addr:city": "North Kuta",
+    "addr:housenumber": "No.1",
+    "addr:postcode": "80361",
+    "addr:street": "Jl. Raya Petitenget",
+    "name": "Artissimo Gallery",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "node",
+  "id": 4265654490,
+  "lat": -8.4754270,
+  "lon": 115.2036580,
+  "tags": {
+    "name": "Bridge",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4267738994,
+  "lat": -8.7438909,
+  "lon": 115.1832766,
+  "tags": {
+    "name": "Ekowisata mangrove",
+    "tourism": "theme_park"
+  }
+},
+{
+  "type": "node",
+  "id": 4267869787,
+  "lat": -8.6543156,
+  "lon": 115.1482032,
+  "tags": {
+    "name": "Taman Rekreasi Bethesda",
+    "tourism": "theme_park"
+  }
+},
+{
+  "type": "node",
+  "id": 4269545827,
+  "lat": -8.6753117,
+  "lon": 115.4471177,
+  "tags": {
+    "addr:city": "Klungkung",
+    "addr:province": "Bali",
+    "contact:phone": "+6281337763128",
+    "email": "contact@jetskilembongan.com",
+    "name": "JETSKI Lembongan Adventure",
+    "name:en": "JETSKI Lembongan Adventure",
+    "name:id": "JETSKI Lembongan Adventure",
+    "opening_hours": "Mo-Su 08:00-22:00",
+    "tourism": "attraction",
+    "website": "https://jetskilembongan.com"
+  }
+},
+{
+  "type": "node",
+  "id": 4269546150,
+  "lat": -8.7076810,
+  "lon": 115.4388391,
+  "tags": {
+    "direction": "187",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4274715993,
+  "lat": -8.4239220,
+  "lon": 115.4376378,
+  "tags": {
+    "name": "Bukit Chili Rafting",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4274721290,
+  "lat": -8.5889205,
+  "lon": 115.3498220,
+  "tags": {
+    "name": "Cucukan Beach",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4279662490,
+  "lat": -8.8486313,
+  "lon": 115.1710541,
+  "tags": {
+    "name": "Green bowl beach",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4330468380,
+  "lat": -8.7088061,
+  "lon": 115.4402991,
+  "tags": {
+    "name": "Zip line",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4338684089,
+  "lat": -8.0929460,
+  "lon": 114.5224709,
+  "tags": {
+    "historic": "monument",
+    "name": "Immersioni",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4349308691,
+  "lat": -8.6486101,
+  "lon": 115.1168691,
+  "tags": {
+    "name": "Local kite beach",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4349528391,
+  "lat": -8.7284729,
+  "lon": 115.1696283,
+  "tags": {
+    "addr:street": "Jl. Kartika Plaza",
+    "description": "Water Park",
+    "name": "Waterbom",
+    "opening_hours": "Mo-Su 09:00-18:00",
+    "phone": "+62 361 755 676",
+    "tourism": "attraction",
+    "website": "https://www.waterbom-bali.com"
+  }
+},
+{
+  "type": "node",
+  "id": 4369319291,
+  "lat": -8.7067959,
+  "lon": 115.4374853,
+  "tags": {
+    "name": "Mahana Point",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4374992089,
+  "lat": -8.7778221,
+  "lon": 115.6168809,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4407740797,
+  "lat": -8.7558303,
+  "lon": 115.1667956,
+  "tags": {
+    "name": "Kelan Beach",
+    "name:ru": "пляж келан",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4407823114,
+  "lat": -8.6747361,
+  "lon": 115.4920872,
+  "tags": {
+    "name": "Green Lion Sanctuary Turtle Conservation",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4412621366,
+  "lat": -8.6423302,
+  "lon": 115.2563041,
+  "tags": {
+    "addr:city": "Denpasar",
+    "addr:housenumber": "88",
+    "addr:postcode": "80237",
+    "addr:street": "Jalan Bypass Ngurah Rai",
+    "name": "Desa Budaya Kertalangu",
+    "phone": "+62 361 461727",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4436137790,
+  "lat": -8.7261125,
+  "lon": 115.1931602,
+  "tags": {
+    "name": "Taman Bakau",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4436155292,
+  "lat": -8.5288026,
+  "lon": 115.3563257,
+  "tags": {
+    "addr:city": "Gianyar",
+    "addr:postcode": "80582",
+    "addr:street": "Jl. Taman Bali, Banjar Blahpane Kelod, Gianyar – Bali",
+    "addr:unit": "Gianyar Bali",
+    "description": "Taman Nusa is an Indonesian cultural park that aims to offer a comprehensive and interactive experience on the cultures of Indonesia’s many ethnic groups, set against the natural backdrop of Bali. See Indonesia in One Afternoon.",
+    "email": "info@taman-nusa.com",
+    "fax": "+62 361 953005",
+    "name": "Taman Nusa Bali",
+    "opening_hours": "09:00-17:00",
+    "operator": "PT. Taman Nusa",
+    "tourism": "museum",
+    "website": "https://www.taman-nusa.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 4446961393,
+  "lat": -8.4770385,
+  "lon": 115.4008328,
+  "tags": {
+    "image": "https://photos.app.goo.gl/p8GScJe1LP3owpqYA",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4467739097,
+  "lat": -8.2508864,
+  "lon": 115.0937371,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4467739098,
+  "lat": -8.2390448,
+  "lon": 115.1118109,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4470930989,
+  "lat": -8.6660529,
+  "lon": 115.4653712,
+  "tags": {
+    "name": "Mangrove Tours",
+    "name:nl": "Mangrove Tours",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4470959390,
+  "lat": -8.6845302,
+  "lon": 115.4279725,
+  "tags": {
+    "name": "Cliff view",
+    "name:nl": "cliff view",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4476509289,
+  "lat": -8.6905127,
+  "lon": 115.2671166,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4499353598,
+  "lat": -8.3764353,
+  "lon": 115.3092975,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4507880786,
+  "lat": -8.7925293,
+  "lon": 115.1236436,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4510083790,
+  "lat": -8.6402533,
+  "lon": 115.1516289,
+  "tags": {
+    "name": "rice field view",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4517334391,
+  "lat": -8.2610504,
+  "lon": 115.0604616,
+  "tags": {
+    "direction": "80",
+    "name": "Far View To Waterfall",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4527419399,
+  "lat": -8.3375640,
+  "lon": 115.6617295,
+  "tags": {
+    "name": "Amed wall",
+    "scuba_diving:type": "reef;wall;apnoe",
+    "sport": "scuba_diving",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4531837289,
+  "lat": -8.0993988,
+  "lon": 114.5204112,
+  "tags": {
+    "name": "Pulau Menjangan island",
+    "name:es": "Pulau Menjangan isla",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4534739458,
+  "lat": -8.8015961,
+  "lon": 115.1170021,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4549076032,
+  "lat": -8.7088062,
+  "lon": 115.5860635,
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "Pura Goa Giri Putri",
+    "name:it": "Goa Giri Putri",
+    "religion": "hindu",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4574645889,
+  "lat": -8.6910016,
+  "lon": 115.4324634,
+  "tags": {
+    "description:en": "Viewpoint on surfable areas",
+    "description:ko": "서핑가능지역 뷰가 좋다",
+    "direction": "120",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4582405991,
+  "lat": -8.7095756,
+  "lon": 115.1667067,
+  "tags": {
+    "email": "kisa_nias@yahoo.co.id",
+    "name": "Fun Surf School",
+    "opening_hours": "Mo-Su 09:00-18:00",
+    "phone": "+62 823 59514140",
+    "tourism": "attraction",
+    "website": "https://www.tripadvisor.com/Attraction_Review-g608487-d10487871-Reviews-Fun_Surf_School-Legian_Bali.html"
+  }
+},
+{
+  "type": "node",
+  "id": 4592639390,
+  "lat": -8.2685110,
+  "lon": 115.3426661,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4595784316,
+  "lat": -8.8365287,
+  "lon": 115.2057251,
+  "tags": {
+    "name": "Gala Viewpoint",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4595786482,
+  "lat": -8.8366847,
+  "lon": 115.2045124,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4607709892,
+  "lat": -8.8445647,
+  "lon": 115.1168883,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4639460210,
+  "lat": -8.8316718,
+  "lon": 115.1877632,
+  "tags": {
+    "name": "Abandoned Aircraft Viewpoint",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4641814194,
+  "lat": -8.8372360,
+  "lon": 115.0930681,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4641828990,
+  "lat": -8.8373002,
+  "lon": 115.0938746,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4690392190,
+  "lat": -8.7069658,
+  "lon": 115.1780841,
+  "tags": {
+    "name": "Pandora Escape Room",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4696445489,
+  "lat": -8.4238628,
+  "lon": 115.4370421,
+  "tags": {
+    "email": "info@alam-amazing-adventures.com",
+    "name": "ALAM amazing adventures",
+    "phone": "+6285100889994",
+    "tourism": "attraction",
+    "website": "https://www.alam-amazing-adventures.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 4696591215,
+  "lat": -8.5342451,
+  "lon": 115.4903436,
+  "tags": {
+    "addr:city": "Antiga",
+    "addr:postcode": "80871",
+    "addr:street": "Jalan Setra",
+    "name": "Taru Agro",
+    "name:en": "Taru Agro Coffee",
+    "phone": "+6281338192258",
+    "tourism": "attraction",
+    "website": "http://www.agrowisatataruagro.blogspot.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 4705258521,
+  "lat": -8.3469004,
+  "lon": 115.5517009,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4711017790,
+  "lat": -8.8264068,
+  "lon": 115.0845279,
+  "tags": {
+    "direction": "200",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4711035389,
+  "lat": -8.8248511,
+  "lon": 115.0842225,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4719549690,
+  "lat": -8.7898869,
+  "lon": 115.1249814,
+  "tags": {
+    "direction": "270",
+    "name": "Sunset Point",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4725502993,
+  "lat": -8.6007675,
+  "lon": 115.2690083,
+  "tags": {
+    "name": "market silver",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4729085689,
+  "lat": -8.4151988,
+  "lon": 115.6471342,
+  "tags": {
+    "name": "holiday house",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4731758627,
+  "lat": -8.2369567,
+  "lon": 115.1363652,
+  "tags": {
+    "name": "Telah Dip",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4734929724,
+  "lat": -8.4899231,
+  "lon": 115.2407486,
+  "tags": {
+    "name": "Bahama-Swing and rafting",
+    "name:zh": "阿勇河漂流",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4757898324,
+  "lat": -8.3381029,
+  "lon": 115.6608631,
+  "tags": {
+    "name": "Jemeluk snorkelling spot",
+    "sport": "snorkeling",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4759770721,
+  "lat": -8.6817390,
+  "lon": 115.4385905,
+  "tags": {
+    "email": "info@tamarinddivers.com",
+    "name": "Tamarind Divers",
+    "phone": "+62 812-3862-7799",
+    "tourism": "attraction",
+    "website": "https://tamarinddivers.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 4760876821,
+  "lat": -8.3867737,
+  "lon": 114.8735337,
+  "tags": {
+    "name": "Bunut Bolong",
+    "natural": "tree",
+    "source": "gps",
+    "tourism": "attraction",
+    "tourism_1": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4760876822,
+  "lat": -8.4665032,
+  "lon": 114.9150825,
+  "tags": {
+    "name": "Yeh Leh Beach",
+    "source": "gps",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4782411027,
+  "lat": -8.7823731,
+  "lon": 115.1406596,
+  "tags": {
+    "name": "Tegal Wangi Beach",
+    "name:en": "Tegal Wangi Beach красота пляж!!",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4782415926,
+  "lat": -8.7821628,
+  "lon": 115.1407773,
+  "tags": {
+    "name": "Tegal wangi natural Jacuzzis",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4782419527,
+  "lat": -8.8145248,
+  "lon": 115.0890011,
+  "tags": {
+    "name": "Secret cave under ultuwatu",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4784473524,
+  "lat": -8.4784655,
+  "lon": 115.2765730,
+  "tags": {
+    "name": "Heron Viewing Platform",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4791836424,
+  "lat": -8.6852743,
+  "lon": 115.2601655,
+  "tags": {
+    "check_date": "2026-06-25",
+    "check_date:opening_hours": "2026-06-25",
+    "name": "Pasar Malam Sindhu",
+    "name:en": "Sindhu Night Market",
+    "opening_hours": "Mo-Su 17:00-22:00",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4792578621,
+  "lat": -8.3344364,
+  "lon": 115.3207218,
+  "tags": {
+    "name": "Manik Abian",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4798251622,
+  "lat": -8.7604933,
+  "lon": 115.2230583,
+  "tags": {
+    "name": "ADITY",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4800363421,
+  "lat": -8.6835067,
+  "lon": 115.1638133,
+  "tags": {
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4800363521,
+  "lat": -8.6827950,
+  "lon": 115.1645500,
+  "tags": {
+    "name": "Toko",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4811786621,
+  "lat": -8.8318362,
+  "lon": 115.1875513,
+  "tags": {
+    "addr:street": "Jl. Nusa Dua Selatan",
+    "name": "Bangkai pesawat",
+    "name:en": "Abandoned aircraft",
+    "name:ru": "Самолет на буките",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4812525723,
+  "lat": -8.5438197,
+  "lon": 115.1691611,
+  "tags": {
+    "name": "Night Market",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4812582722,
+  "lat": -8.7294842,
+  "lon": 115.4500655,
+  "tags": {
+    "name": "Broken Bay",
+    "natural": "bay",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4821816612,
+  "lat": -8.2758747,
+  "lon": 115.1537382,
+  "tags": {
+    "name": "Dinosaur shadehouse",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4824363621,
+  "lat": -8.6620766,
+  "lon": 115.1658559,
+  "tags": {
+    "name": "Kuul stufff lampe",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4833592921,
+  "lat": -8.1615027,
+  "lon": 115.0244587,
+  "tags": {
+    "name": "dolphin view",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4840760169,
+  "lat": -8.2715355,
+  "lon": 115.1563370,
+  "tags": {
+    "description": "View to Bratan Lake",
+    "direction": "99",
+    "name": "Pemandangan Danau",
+    "name:en": "Lake View",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4841588836,
+  "lat": -8.7109410,
+  "lon": 115.1799223,
+  "tags": {
+    "name": "Wave coworking",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4857772948,
+  "lat": -8.5162049,
+  "lon": 115.3313046,
+  "tags": {
+    "name": "Goa Rang Reng",
+    "source": "gps",
+    "tourism": "attraction",
+    "waterway": "waterfall"
+  }
+},
+{
+  "type": "node",
+  "id": 4858759616,
+  "lat": -8.5068009,
+  "lon": 115.3330647,
+  "tags": {
+    "name": "Tibumana",
+    "name:en": "Tibumana Waterfall",
+    "name:ru": "водопад",
+    "tourism": "attraction",
+    "waterway": "waterfall"
+  }
+},
+{
+  "type": "node",
+  "id": 4862993423,
+  "lat": -8.5348911,
+  "lon": 115.2665300,
+  "tags": {
+    "addr:street": "Jalan Cempaka Kumbuh",
+    "email": "jaensspashanti@gmail.com",
+    "name": "Jaens Spa Shanti",
+    "opening_hours": "Mo-Su 09:00-21:00",
+    "phone": "+623619081444",
+    "tourism": "attraction",
+    "website": "https://www.jaensspa.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 4868135221,
+  "lat": -8.7746895,
+  "lon": 115.5016360,
+  "tags": {
+    "name": "Saren Cliff point",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4875605524,
+  "lat": -8.8035445,
+  "lon": 115.1319963,
+  "tags": {
+    "name": "Balangan Bowl",
+    "name:en": "Skate park",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4879642921,
+  "lat": -8.3856914,
+  "lon": 115.1801504,
+  "tags": {
+    "name": "Pinge Village",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4884870922,
+  "lat": -8.2640757,
+  "lon": 115.0910031,
+  "tags": {
+    "name": "tamblingan lake",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4888556721,
+  "lat": -8.1464049,
+  "lon": 115.0433554,
+  "tags": {
+    "name:fr": "dolphin watching lovina tour",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4909811021,
+  "lat": -8.5362423,
+  "lon": 115.2718111,
+  "tags": {
+    "name": "Njana Tilem Museum",
+    "opening_hours": "closed",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 4919960021,
+  "lat": -8.4376461,
+  "lon": 115.0698727,
+  "tags": {
+    "name": "Lookout to Denpasar",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4920229522,
+  "lat": -8.8107900,
+  "lon": 115.1009610,
+  "tags": {
+    "name": "lonely sea point",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4930807723,
+  "lat": -8.7511763,
+  "lon": 115.4742150,
+  "tags": {
+    "description:en": "Kelingking Beach viewpoint",
+    "description:pl": "Punkt widokowy na plażę Kelingking",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4930808822,
+  "lat": -8.7606143,
+  "lon": 115.4866036,
+  "tags": {
+    "name": "Sunset point",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4973461351,
+  "lat": -8.3625777,
+  "lon": 115.4601242,
+  "tags": {
+    "name": "Bikepark Besakih",
+    "tourism": "theme_park"
+  }
+},
+{
+  "type": "node",
+  "id": 4978746623,
+  "lat": -8.6805340,
+  "lon": 115.1528641,
+  "tags": {
+    "name": "sea vu play",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4979164290,
+  "lat": -8.4115474,
+  "lon": 115.5902961,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4979300593,
+  "lat": -8.5154001,
+  "lon": 115.5822804,
+  "tags": {
+    "name": "Paragliding Launching Zone",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4984096524,
+  "lat": -8.5051893,
+  "lon": 115.6099995,
+  "tags": {
+    "name": "Cliff jumping (10m) !closed!",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4995868722,
+  "lat": -8.3934022,
+  "lon": 115.7100677,
+  "tags": {
+    "name": "Picnic shelters",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4998736015,
+  "lat": -8.6066246,
+  "lon": 115.2850503,
+  "tags": {
+    "name": "mini zoo",
+    "tourism": "zoo"
+  }
+},
+{
+  "type": "node",
+  "id": 5001467222,
+  "lat": -8.1246992,
+  "lon": 115.0969474,
+  "tags": {
+    "name": "Gedong Kertya",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 5002610612,
+  "lat": -8.4423213,
+  "lon": 115.3879035,
+  "tags": {
+    "name": "Air Terjun Tukad Cepung",
+    "name:en": "Tukad Cepung Artifical Waterfall",
+    "name:ru": "Водопад Тукад Чепунг",
+    "tourism": "attraction",
+    "waterway": "waterfall"
+  }
+},
+{
+  "type": "node",
+  "id": 5014019821,
+  "lat": -8.5065321,
+  "lon": 115.2491310,
+  "tags": {
+    "name:fr": "Atelier peinture",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "node",
+  "id": 5037620424,
+  "lat": -8.5298308,
+  "lon": 115.5132909,
+  "tags": {
+    "name": "Sunrise Point",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 5071145924,
+  "lat": -8.3936155,
+  "lon": 115.3758436,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 5073176421,
+  "lat": -8.4352795,
+  "lon": 115.2808220,
+  "tags": {
+    "name": "Alaska Ha",
+    "name:de": "Quelle",
+    "name:en": "Spring",
+    "name:id": "Alaska Harum Bali",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5088142725,
+  "lat": -8.5515397,
+  "lon": 115.4735851,
+  "tags": {
+    "name": "Natural Salt Maker",
+    "name:de": "Natursalzherstellung",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5100419822,
+  "lat": -8.2492955,
+  "lon": 115.4291374,
+  "tags": {
+    "name": "Bukit Terunyan",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 5105291221,
+  "lat": -8.6670110,
+  "lon": 115.1789455,
+  "tags": {
+    "name": "Zahara Urban Farm",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5109247921,
+  "lat": -8.7049502,
+  "lon": 115.1770336,
+  "tags": {
+    "name": "Flowhouse Bali (Indoor Surfing)",
+    "tourism": "attraction",
+    "website": "https://instagram.com/flowhousebali"
+  }
+},
+{
+  "type": "node",
+  "id": 5128138402,
+  "lat": -8.3655711,
+  "lon": 114.7963293,
+  "tags": {
+    "name": "green cliff",
+    "source": "gps",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 5128158296,
+  "lat": -8.3446387,
+  "lon": 114.6013927,
+  "tags": {
+    "name": "Kaliakah Village Circuit ( Makepung-Bull Race)",
+    "source": "gps",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5131947801,
+  "lat": -8.4575023,
+  "lon": 115.3877655,
+  "tags": {
+    "name": "Air Terjun Tangkup Krisik",
+    "name:en": "Tangkup Krisik Waterfall",
+    "source": "gps",
+    "tourism": "attraction",
+    "waterway": "waterfall"
+  }
+},
+{
+  "type": "node",
+  "id": 5149607925,
+  "lat": -8.3341953,
+  "lon": 115.6536502,
+  "tags": {
+    "name": "Pyramids",
+    "sport": "scuba_diving",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5149613321,
+  "lat": -8.4247497,
+  "lon": 115.5930179,
+  "tags": {
+    "name": "Tree House",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5154330421,
+  "lat": -8.8198012,
+  "lon": 115.2243644,
+  "tags": {
+    "name": "Pura Geger Beach",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5177866121,
+  "lat": -8.1317639,
+  "lon": 114.5623214,
+  "tags": {
+    "name": "Sunset view point (small beach)",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 5181438842,
+  "lat": -8.2685467,
+  "lon": 115.0902633,
+  "tags": {
+    "fixme": "Better modelling - entrance=yes? Something else?",
+    "name": "Entrance of the recreation park",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5192389264,
+  "lat": -8.4485044,
+  "lon": 115.0523016,
+  "tags": {
+    "name": "Sing Sing Angin waterfall",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5195569158,
+  "lat": -8.4443642,
+  "lon": 115.2787632,
+  "tags": {
+    "name": "Bali Geo",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5199364121,
+  "lat": -8.2466659,
+  "lon": 115.1000751,
+  "tags": {
+    "name": "Twin Lakes Viewpoint",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 5204202721,
+  "lat": -8.6089485,
+  "lon": 115.0833909,
+  "tags": {
+    "name": "Pantai Kedungu",
+    "name:en": "Kedungu beach",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5210720195,
+  "lat": -8.4904860,
+  "lon": 115.2401167,
+  "tags": {
+    "name": "Bali-swing",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5226085421,
+  "lat": -8.4117300,
+  "lon": 114.8278031,
+  "tags": {
+    "name:ru": "дерево",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 5233969421,
+  "lat": -8.7574660,
+  "lon": 115.2222721,
+  "tags": {
+    "name": "Pondok surf spot",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5235738818,
+  "lat": -8.5323414,
+  "lon": 115.3329825,
+  "tags": {
+    "name": "Kanto Lampo",
+    "name:en": "Kanto Lampo Waterfall",
+    "name:id": "Air Terjun Kanto Lampo",
+    "name:ru": "Водопад Канто Лампо",
+    "tourism": "attraction",
+    "waterway": "waterfall"
+  }
+},
+{
+  "type": "node",
+  "id": 5246521311,
+  "lat": -8.6755493,
+  "lon": 115.1646196,
+  "tags": {
+    "name": "Ikat",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "node",
+  "id": 5246521452,
+  "lat": -8.6623828,
+  "lon": 115.1669957,
+  "tags": {
+    "fee": "no",
+    "name": "88",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "node",
+  "id": 5251777421,
+  "lat": -8.6157014,
+  "lon": 115.1155875,
+  "tags": {
+    "name": "Mini Golf Course ⛳️",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5258852122,
+  "lat": -8.6234981,
+  "lon": 115.0882139,
+  "tags": {
+    "direction": "-35",
+    "name": "Sunset viewpoint on Tanah Lot Temple",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 5269872296,
+  "lat": -8.5303966,
+  "lon": 115.3598685,
+  "tags": {
+    "name": "Train Museum",
+    "operator": "PT. Taman Nusa",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 5284496222,
+  "lat": -8.5078886,
+  "lon": 115.5722866,
+  "tags": {
+    "name": "Guungan Hill Viewpoint",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5298917524,
+  "lat": -8.1428512,
+  "lon": 114.6579671,
+  "tags": {
+    "name": "Snorkelling spot",
+    "name:fr": "Spot de Snorkeling",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5303615721,
+  "lat": -8.6812697,
+  "lon": 115.1713369,
+  "tags": {
+    "name": "Adventure scuba diving",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5308064223,
+  "lat": -8.5268150,
+  "lon": 114.9937940,
+  "tags": {
+    "name": "Bat Cave",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5315478722,
+  "lat": -8.3729760,
+  "lon": 115.7059571,
+  "tags": {
+    "name": "Coral Garden",
+    "name:en": "Coral Garden",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5320611021,
+  "lat": -8.5713404,
+  "lon": 115.2605701,
+  "tags": {
+    "addr:housenumber": "98",
+    "addr:street": "Jl. Raya Mawang",
+    "name": "Merta Harum Agro coffee plantation",
+    "opening_hours": "Mo-Su 09:00-18:00",
+    "phone": "+62 819-9981-4443",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5323214442,
+  "lat": -8.7388438,
+  "lon": 115.4539857,
+  "tags": {
+    "name": "Manta Point",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5323214443,
+  "lat": -8.6720595,
+  "lon": 115.5518215,
+  "tags": {
+    "description": "Snorkeling point",
+    "scuba_diving:type:snorkeling": "yes",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5323233090,
+  "lat": -8.2795907,
+  "lon": 115.5986257,
+  "tags": {
+    "name": "Small Volcano Rocks Beach",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5325133421,
+  "lat": -8.6087502,
+  "lon": 115.0838246,
+  "tags": {
+    "description": "20k for foreigners",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5342242321,
+  "lat": -8.8319574,
+  "lon": 115.1879355,
+  "tags": {
+    "name": "Park a bit after the entrance. View on an hidden aircraft",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 5346643621,
+  "lat": -8.4126591,
+  "lon": 115.5924901,
+  "tags": {
+    "name": "RICE FIELD",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5403344621,
+  "lat": -8.8034903,
+  "lon": 115.2398694,
+  "tags": {
+    "name": "WaterBlow View",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 5404899326,
+  "lat": -8.8038498,
+  "lon": 115.2398453,
+  "tags": {
+    "name": "WaterBlow",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5418170421,
+  "lat": -8.5749098,
+  "lon": 115.0505199,
+  "tags": {
+    "addr:street": "Jalan Pantai Kelathing",
+    "name": "Kelathing Beach",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5426370521,
+  "lat": -8.4858395,
+  "lon": 115.5623444,
+  "tags": {
+    "name": "Bee Farm and Coffee Plantation",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5449463223,
+  "lat": -8.5673567,
+  "lon": 115.2611082,
+  "tags": {
+    "name": "Lumbung Sari coffee luwak",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5466670273,
+  "lat": -8.6840065,
+  "lon": 115.4276443,
+  "tags": {
+    "name": "Sunset Point",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 5481834621,
+  "lat": -8.5294046,
+  "lon": 115.2715408,
+  "tags": {
+    "addr:housenumber": "44",
+    "addr:postcode": "80571",
+    "addr:street": "Jl. Cok Rai Pudak",
+    "name": "Museum Rudana",
+    "phone": "+62 36-1975779",
+    "tourism": "museum",
+    "website": "http://www.therudana.org"
+  }
+},
+{
+  "type": "node",
+  "id": 5502947721,
+  "lat": -8.6906110,
+  "lon": 115.4291054,
+  "tags": {
+    "direction": "270",
+    "name": "Sunset Viewpoint",
+    "name:en": "Sunset Viewpoint",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 5503174721,
+  "lat": -8.8212413,
+  "lon": 115.0852741,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 5572544413,
+  "lat": -8.6095423,
+  "lon": 115.2892525,
+  "tags": {
+    "name": "Hidden Canyon Beji Guwang",
+    "name:ru": "скрытый каньон",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5577522721,
+  "lat": -8.5052474,
+  "lon": 115.6114057,
+  "tags": {
+    "name": "Cliff Jumping (4 m)",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5577522821,
+  "lat": -8.5052825,
+  "lon": 115.6113561,
+  "tags": {
+    "name": "Cliff Jumping (8 m)",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5588359122,
+  "lat": -8.7043132,
+  "lon": 115.2569975,
+  "tags": {
+    "name": "Dune Atlantis",
+    "opening_hours": "Mo-Su 07:30-18:30",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5593904623,
+  "lat": -8.4198555,
+  "lon": 115.1784188,
+  "tags": {
+    "name": "Cau chocolates",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5599855924,
+  "lat": -8.3685840,
+  "lon": 115.3411616,
+  "tags": {
+    "name": "I love bas love swing",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5609071221,
+  "lat": -8.3320469,
+  "lon": 115.2280710,
+  "tags": {
+    "name": "nungnung swing view",
+    "name:es": "columpio view",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5621203221,
+  "lat": -8.2190150,
+  "lon": 115.0444814,
+  "tags": {
+    "name": "Super view 10.000₽",
+    "name:ru": "Kubu Hobbit",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 5623572922,
+  "lat": -8.4753850,
+  "lon": 114.9322426,
+  "tags": {
+    "name": "Black sand beach",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 5641287421,
+  "lat": -8.5744817,
+  "lon": 115.2571933,
+  "tags": {
+    "name": "luwak coffee degustation",
+    "name:fr": "luwak coffee degustation",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5645432923,
+  "lat": -8.5660068,
+  "lon": 115.2927086,
+  "tags": {
+    "name": "Old bridge",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5658150025,
+  "lat": -8.5414037,
+  "lon": 115.3268086,
+  "tags": {
+    "addr:postcode": "80511",
+    "addr:street": "Jalan I Gusti Ngurah Rai",
+    "name": "Pasar Senggol Gianyar",
+    "opening_hours": "Mo-Su 07:00-23:00",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5664332421,
+  "lat": -8.4081043,
+  "lon": 115.5904876,
+  "tags": {
+    "name": "Entry rice fields",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5666692021,
+  "lat": -8.7061776,
+  "lon": 115.4386900,
+  "tags": {
+    "description:en": "Big wave viewpoint",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 5671380229,
+  "lat": -8.6465096,
+  "lon": 115.1399048,
+  "tags": {
+    "addr:street": "Jalan Pantai Batu Bolong",
+    "name": "Canggu jewelry classes",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5671928021,
+  "lat": -8.4993906,
+  "lon": 115.5342189,
+  "tags": {
+    "name": "Southern dreams diving",
+    "name:fr": "Southern dreams diving",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5672858221,
+  "lat": -8.6822121,
+  "lon": 115.2573642,
+  "tags": {
+    "name": "Small night market for food",
+    "opening_hours": "Mo-Su 18:00-23:00",
+    "outdoor_seating": "no",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5676741421,
+  "lat": -8.2813701,
+  "lon": 115.5752482,
+  "tags": {
+    "name": "Mount Agung Panoramic Viewpoint",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 5676741422,
+  "lat": -8.2799291,
+  "lon": 115.5795175,
+  "tags": {
+    "name": "Sunrise and Mount Agung Panorama Viewpoint",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 5684768333,
+  "lat": -8.6925495,
+  "lon": 115.4745421,
+  "tags": {
+    "name": "Pandangan Matahari Terbenam",
+    "name:en": "Sunset Viewpoint",
+    "name:fr": "Point de vue (coucher soleil)",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 5686640921,
+  "lat": -8.4238828,
+  "lon": 115.4350680,
+  "tags": {
+    "name": "Start rafting",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5693022921,
+  "lat": -8.2456510,
+  "lon": 115.1256647,
+  "tags": {
+    "name": "Fishfarm",
+    "name:de": "Fischfarm",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5701807635,
+  "lat": -8.2344429,
+  "lon": 115.4275383,
+  "tags": {
+    "name": "Viewpoint for sunrise",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 5705277421,
+  "lat": -8.4150653,
+  "lon": 115.2891931,
+  "tags": {
+    "name": "Glass Blowing",
+    "name:fr": "Soufflerie de verre artisanale",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5713382121,
+  "lat": -8.7820035,
+  "lon": 115.5740222,
+  "tags": {
+    "name": "Teletubbies Hills",
+    "name:fr": "Teletubbies Hills",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 5725101121,
+  "lat": -8.8264291,
+  "lon": 115.2203479,
+  "tags": {
+    "name": "Nikko beach",
+    "name:ru": "пляж Никко",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5729355929,
+  "lat": -8.5719825,
+  "lon": 115.2170777,
+  "tags": {
+    "name": "Chocolate Factory big tree bamboo",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5732894721,
+  "lat": -8.7879724,
+  "lon": 115.5793695,
+  "tags": {
+    "name": "Teletubbies Hill",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 5753769621,
+  "lat": -8.7263545,
+  "lon": 115.5262438,
+  "tags": {
+    "name": "Sunset viewpoint",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 5754194921,
+  "lat": -8.7869264,
+  "lon": 115.5746054,
+  "tags": {
+    "name": "Teletubbies hills",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 5757581521,
+  "lat": -8.7683168,
+  "lon": 115.4858164,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 5767313553,
+  "lat": -8.1425413,
+  "lon": 114.6549197,
+  "tags": {
+    "name": "snorkel point (biorock)",
+    "name:fr": "spot de snorkeling ( biorock)",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5778196961,
+  "lat": -8.4532791,
+  "lon": 115.2341003,
+  "tags": {
+    "name": "Rafting",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5785440553,
+  "lat": -8.4417370,
+  "lon": 115.2814136,
+  "tags": {
+    "name": "Umel Pako Agro",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5794094854,
+  "lat": -8.7796505,
+  "lon": 115.1445117,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 5814684753,
+  "lat": -8.6735619,
+  "lon": 115.4472719,
+  "tags": {
+    "name": "LSL surf",
+    "name:fr": "LSL surf",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5816844353,
+  "lat": -8.6730489,
+  "lon": 115.4473607,
+  "tags": {
+    "name": "arthamas express - boat Lembongan Sanur",
+    "name:fr": "arthamArthamas express - boat Lembongan Sanur",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5824776753,
+  "lat": -8.7020566,
+  "lon": 115.4536722,
+  "tags": {
+    "description:en": "View on Nusa Penida",
+    "direction": "120",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 5826136754,
+  "lat": -8.5152925,
+  "lon": 115.5806884,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 5828066385,
+  "lat": -8.8307435,
+  "lon": 115.0855385,
+  "tags": {
+    "direction": "270",
+    "name": "Sunset viewpoint",
+    "name:fr": "Meilleur Endroit Pour Le Coucher Du Soleil",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 5837919486,
+  "lat": -8.7270417,
+  "lon": 115.5992443,
+  "tags": {
+    "name": "Suana Point",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 5837997287,
+  "lat": -8.6668395,
+  "lon": 115.4673114,
+  "tags": {
+    "name": "Mangrove Forest",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5839795987,
+  "lat": -8.4178181,
+  "lon": 115.3604783,
+  "tags": {
+    "name": "Bamboo Forest",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5840500987,
+  "lat": -8.7367783,
+  "lon": 115.6118941,
+  "tags": {
+    "name": "Sea weed culture",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5851570385,
+  "lat": -8.5951308,
+  "lon": 115.3378843,
+  "tags": {
+    "name": "Aeropark",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5853750587,
+  "lat": -8.2559449,
+  "lon": 115.1901248,
+  "tags": {
+    "name": "Above sky view",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 5853750785,
+  "lat": -8.2590193,
+  "lon": 115.1891927,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 5858646485,
+  "lat": -8.7975545,
+  "lon": 115.2373882,
+  "tags": {
+    "name": "Onefootdifference secret beach",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5862422385,
+  "lat": -8.4070051,
+  "lon": 115.5906328,
+  "tags": {
+    "name": "Rice terraces",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5872547185,
+  "lat": -8.4802158,
+  "lon": 115.2478044,
+  "tags": {
+    "name": "TOEKAD RAFTING",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5880216886,
+  "lat": -8.7808886,
+  "lon": 115.1860537,
+  "tags": {
+    "name:zh": "Oolala土特產店",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5884599685,
+  "lat": -8.0914598,
+  "lon": 114.5111107,
+  "tags": {
+    "name:fr": "Menjangan",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5886035385,
+  "lat": -8.0941184,
+  "lon": 114.9813550,
+  "tags": {
+    "name:fr": "dauphin",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5886035485,
+  "lat": -8.1239349,
+  "lon": 115.0195664,
+  "tags": {
+    "name": "Dolphins",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5910583685,
+  "lat": -8.6053664,
+  "lon": 115.2505182,
+  "tags": {
+    "name": "Luwak coffee factory",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5922184887,
+  "lat": -8.6099018,
+  "lon": 115.2911640,
+  "tags": {
+    "name": "Hidden canyon",
+    "name:ru": "Скрытый каньон",
+    "opening_hours": "Mo-Su 09:00-17:00",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5923301685,
+  "lat": -8.8365623,
+  "lon": 115.2053272,
+  "tags": {
+    "description": "Address: Jl. Villa Shanti No.Asmara 16, Benoa, Kec. Kuta Sel., Kabupaten Badung, Bali 80361, Indonesia",
+    "name": "Alam Paragliding Flying Site",
+    "operator": "Alam Paragliding",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5925445286,
+  "lat": -8.8330937,
+  "lon": 115.1262607,
+  "tags": {
+    "name": "Pura pererepan",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5926514758,
+  "lat": -8.5356484,
+  "lon": 115.4029536,
+  "tags": {
+    "name": "Istana Klungkung",
+    "name:en": "Klungkung Palace",
+    "name:id": "Istana Klungkung",
+    "tourism": "attraction",
+    "wikidata": "Q1164385",
+    "wikimedia_commons": "Category:Klungkung Palace",
+    "wikipedia": "en:Klungkung Palace"
+  }
+},
+{
+  "type": "node",
+  "id": 5926515804,
+  "lat": -8.5355721,
+  "lon": 115.4033338,
+  "tags": {
+    "leisure": "park",
+    "name": "Taman Kertha Gosa",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5926515805,
+  "lat": -8.5358422,
+  "lon": 115.4029231,
+  "tags": {
+    "image": "https://photos.app.goo.gl/jnqqukrnYTzU7Esk9",
+    "name": "Pedemal Agung",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5926516529,
+  "lat": -8.5354185,
+  "lon": 115.4035849,
+  "tags": {
+    "name": "Kertha Gosa",
+    "tourism": "attraction",
+    "wikidata": "Q6394777",
+    "wikimedia_commons": "Category:Kerta Gosa",
+    "wikipedia": "en:Kertha Gosa Pavilion"
+  }
+},
+{
+  "type": "node",
+  "id": 5927891386,
+  "lat": -8.6810370,
+  "lon": 115.4342353,
+  "tags": {
+    "direction": "270",
+    "name": "Sunset",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 5928596087,
+  "lat": -8.6978859,
+  "lon": 115.4602425,
+  "tags": {
+    "name": "Loving Penida Viewpoint",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 5929782985,
+  "lat": -8.3691472,
+  "lon": 115.4623103,
+  "tags": {
+    "name": "Desa Temukus Marigold Flower Field",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5938434585,
+  "lat": -8.1367064,
+  "lon": 114.6500119,
+  "tags": {
+    "name": "Sandy entry snorkelling",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5938434586,
+  "lat": -8.1334604,
+  "lon": 114.6444130,
+  "tags": {
+    "name": "Pantai Pemuteran",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5965156885,
+  "lat": -8.5123566,
+  "lon": 115.4211964,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 5965469385,
+  "lat": -8.7814362,
+  "lon": 115.5183751,
+  "tags": {
+    "name": "Peguyangan",
+    "name:en": "Peguyangan Waterfall",
+    "tourism": "attraction",
+    "waterway": "waterfall"
+  }
+},
+{
+  "type": "node",
+  "id": 5983192785,
+  "lat": -8.5054534,
+  "lon": 115.2629624,
+  "tags": {
+    "name": "Rio Helmi Gallery & Cafe",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "node",
+  "id": 5989215187,
+  "lat": -8.2432791,
+  "lon": 115.3910835,
+  "tags": {
+    "name": "Gn. Mount Batur Trek Start Point",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 6003490086,
+  "lat": -8.6064006,
+  "lon": 115.2577342,
+  "tags": {
+    "name": "Pusa theater",
+    "name:fr": "Pusa théâtre",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 6004363693,
+  "lat": -8.1439569,
+  "lon": 114.5472419,
+  "tags": {
+    "name": "Bali Tower",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 6077269685,
+  "lat": -8.6516252,
+  "lon": 115.2175842,
+  "tags": {
+    "name:fr": "marché aux oiseaux",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 6114569750,
+  "lat": -8.2569950,
+  "lon": 115.2275379,
+  "tags": {
+    "name": "D' Alas Ekowisata",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 6137389285,
+  "lat": -8.5456366,
+  "lon": 115.4280672,
+  "tags": {
+    "name": "Bukit Belong Hill",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 6164659085,
+  "lat": -8.4535189,
+  "lon": 115.4091484,
+  "tags": {
+    "name": "Coffee plantation",
+    "name:cs": "Kávové plantáže",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 6184208986,
+  "lat": -8.1598669,
+  "lon": 115.0269718,
+  "tags": {
+    "name": "arrows dive centre",
+    "name:nl": "duikwinkel",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 6191624353,
+  "lat": -8.2786897,
+  "lon": 115.5965017,
+  "tags": {
+    "scuba_diving:type": "reef;wall;snorkeling",
+    "sport": "scuba_diving",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 6193923285,
+  "lat": -8.2221869,
+  "lon": 115.3241437,
+  "tags": {
+    "name": "Sunrise, Agung without fog",
+    "name:ru": "Рассвет с видом на Агунг меньше тумана",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 6219657285,
+  "lat": -8.6188298,
+  "lon": 115.3101079,
+  "tags": {
+    "name": "Purnama beach",
+    "name:ru": "чёрный пляж",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 6219657286,
+  "lat": -8.6188120,
+  "lon": 115.3100911,
+  "tags": {
+    "name": "Purnama beach",
+    "name:ru": "Пляж Пурнама (чёрный пляж)",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 6223499801,
+  "lat": -8.1568972,
+  "lon": 114.6621393,
+  "tags": {
+    "name": "Viewpoint terrace",
+    "name:en": "Viewpoint terrace",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 6223500061,
+  "lat": -8.1559423,
+  "lon": 114.6622757,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 6223500062,
+  "lat": -8.1569724,
+  "lon": 114.6620039,
+  "tags": {
+    "amenity": "bench",
+    "material": "wood",
+    "name": "Swing",
+    "name:en": "Panoramic Swing",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 6223993265,
+  "lat": -8.2174280,
+  "lon": 115.3561270,
+  "tags": {
+    "name": "Pandangan Terbit Sukawana",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 6227236093,
+  "lat": -8.5517659,
+  "lon": 115.2921243,
+  "tags": {
+    "name": "Sumampan Waterfall",
+    "tourism": "attraction",
+    "waterway": "waterfall"
+  }
+},
+{
+  "type": "node",
+  "id": 6278550285,
+  "lat": -8.8155477,
+  "lon": 115.0883170,
+  "tags": {
+    "name": "Suluban Beach",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 6300284586,
+  "lat": -8.6654998,
+  "lon": 115.1373268,
+  "tags": {
+    "name": "Berawa Surfspot",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 6302513285,
+  "lat": -8.6947644,
+  "lon": 115.4914510,
+  "tags": {
+    "name": "Mungkul cottage view",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 6316346320,
+  "lat": -8.7725872,
+  "lon": 115.6232615,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 6338694985,
+  "lat": -8.7754554,
+  "lon": 115.6213279,
+  "tags": {
+    "name": "Panorama on Atuh and Diamond Beach",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 6342399663,
+  "lat": -8.1762854,
+  "lon": 115.1062605,
+  "tags": {
+    "name": "Aling-Aling Waterfall Viewpoint",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 6349140385,
+  "lat": -8.6135364,
+  "lon": 115.0856475,
+  "tags": {
+    "name": "seungho",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 6356073087,
+  "lat": -8.2688991,
+  "lon": 115.3615820,
+  "tags": {
+    "name": "Black Lava Field",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 6360073686,
+  "lat": -8.6894783,
+  "lon": 115.4882192,
+  "tags": {
+    "name": "bamboo viewpoint",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 6365028685,
+  "lat": -8.7162773,
+  "lon": 115.1742555,
+  "tags": {
+    "name": "Kuta Jin Legian",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 6366269889,
+  "lat": -8.8041568,
+  "lon": 115.1153354,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 6377227587,
+  "lat": -8.2193651,
+  "lon": 115.4190879,
+  "tags": {
+    "name": "Point of view on the lake and the mount Batur",
+    "name:ru": "Обзорная точка на гору Батур",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 6390873787,
+  "lat": -8.4275320,
+  "lon": 115.6909699,
+  "tags": {
+    "name": "Black Sand Beach",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 6390957185,
+  "lat": -8.4637293,
+  "lon": 115.2765767,
+  "tags": {
+    "addr:postcode": "80561",
+    "name": "Alpha Ubud Swing",
+    "opening_hours": "Mo-Su 08:00-17:00",
+    "phone": "+6281999333462",
+    "tourism": "attraction",
+    "website": "https://alohaubud.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 6413211185,
+  "lat": -8.7500061,
+  "lon": 115.4735600,
+  "tags": {
+    "description:en": "Viewpoint on Kelingking Beach",
+    "direction": "201",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 6417197786,
+  "lat": -8.2102249,
+  "lon": 115.3649983,
+  "tags": {
+    "direction": "120",
+    "name": "Pandangan Terbit Desa Pinggan",
+    "name:en": "Sunrise over Pinggan Village",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 6440358595,
+  "lat": -8.6775225,
+  "lon": 115.5416303,
+  "tags": {
+    "description:en": "Viewpoint Mt. Agung",
+    "direction": "0",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 6446895285,
+  "lat": -8.2636325,
+  "lon": 115.0595852,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 6448062585,
+  "lat": -8.5084848,
+  "lon": 115.2663426,
+  "tags": {
+    "name": "House of Lempad",
+    "name:ru": "Дом художника Лемпада",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 6448742995,
+  "lat": -8.6572922,
+  "lon": 115.2525908,
+  "tags": {
+    "name": "Big Garden Corner",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 6451134685,
+  "lat": -8.2791765,
+  "lon": 115.3674343,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 6460725834,
+  "lat": -8.5809044,
+  "lon": 115.2555816,
+  "tags": {
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "node",
+  "id": 6482224085,
+  "lat": -8.4987413,
+  "lon": 115.2443099,
+  "tags": {
+    "name:es": "The Sayan House",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 6501386187,
+  "lat": -8.1459399,
+  "lon": 115.0393734,
+  "tags": {
+    "name": "Snorkeling area",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 6501390185,
+  "lat": -8.3522945,
+  "lon": 115.6874108,
+  "tags": {
+    "name": "Sunrise viewpoint",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 6533557991,
+  "lat": -8.6906475,
+  "lon": 115.4302480,
+  "tags": {
+    "name": "Devil's Tears Blowhole",
+    "name:en": "Devil's Tears Blowhole",
+    "name:zh": "恶魔的眼泪",
+    "name:zh-Hans": "恶魔的眼泪",
+    "name:zh-Hant": "惡魔的眼淚",
+    "natural": "blowhole",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 6537088987,
+  "lat": -8.8132199,
+  "lon": 115.1659285,
+  "tags": {
+    "name": "View Point Garuda Statue",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 6537088988,
+  "lat": -8.8006553,
+  "lon": 115.1172927,
+  "tags": {
+    "name": "Sunset",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 6548895587,
+  "lat": -8.5280555,
+  "lon": 115.2578826,
+  "tags": {
+    "addr:postcode": "80571",
+    "addr:street": "Jl. Raya Nyuh Kuning",
+    "name": "Bali Culture Centre",
+    "name:de": "Bali Tourism Culture Park",
+    "opening_hours": "Mo-Su 09:00-17:00",
+    "phone": "+62 361 978145",
+    "tourism": "museum",
+    "website": "https://baliculturecentre.com"
+  }
+},
+{
+  "type": "node",
+  "id": 6549946285,
+  "lat": -8.4262117,
+  "lon": 115.6086959,
+  "tags": {
+    "name": "Bukit Cinta",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 6594409846,
+  "lat": -8.6206437,
+  "lon": 115.0870795,
+  "tags": {
+    "direction": "205",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 6611743030,
+  "lat": -8.4968087,
+  "lon": 115.2553404,
+  "tags": {
+    "direction": "40",
+    "name": "Partial viewpoint on Mount Agung",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 6634930687,
+  "lat": -8.7753910,
+  "lon": 115.6199560,
+  "tags": {
+    "name": "Swing",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 6640142586,
+  "lat": -8.6015006,
+  "lon": 115.2636120,
+  "tags": {
+    "name:de": "celuk",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 6640366185,
+  "lat": -8.7917901,
+  "lon": 115.5259613,
+  "tags": {
+    "direction": "180",
+    "name": "Manta Point Cliff view",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 6642420985,
+  "lat": -8.5031218,
+  "lon": 115.2369028,
+  "tags": {
+    "name": "Desa Swing",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 6649051685,
+  "lat": -8.2600066,
+  "lon": 115.3409088,
+  "tags": {
+    "name": "Panorama and coffee place",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 6649085551,
+  "lat": -8.4244462,
+  "lon": 115.5933950,
+  "tags": {
+    "name": "Rumah Pohon Temega",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 6655312185,
+  "lat": -8.6966831,
+  "lon": 115.4604164,
+  "tags": {
+    "direction": "120",
+    "name": "Ceningan cliff",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 6665457812,
+  "lat": -8.7150534,
+  "lon": 115.4590049,
+  "tags": {
+    "direction": "270",
+    "name": "Sunset viewpoint",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 6669875974,
+  "lat": -8.7325862,
+  "lon": 115.4509635,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 6673611986,
+  "lat": -8.7000578,
+  "lon": 115.4446238,
+  "tags": {
+    "addr:postcode": "80771",
+    "addr:street": "Jalan Nusa Ceningan",
+    "name": "Ceningan Paradise Adventures",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 6684409953,
+  "lat": -8.7825381,
+  "lon": 115.5197593,
+  "tags": {
+    "description:en": "Peguyangan temple cliff view",
+    "direction": "270",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 6704447387,
+  "lat": -8.7355602,
+  "lon": 115.4547660,
+  "tags": {
+    "description:cs": "Vyhlídka na malý ostrov (Bez lidí, cesta mezi stromy)",
+    "description:en": "Viewpoint on small island (without people, way between trees)",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 6704450286,
+  "lat": -8.7855554,
+  "lon": 115.5747626,
+  "tags": {
+    "name": "Viewpoint on Teletubbies Hills",
+    "name:cs": "Vyhlídka na Teletubbies Hills",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 6709917686,
+  "lat": -8.7788364,
+  "lon": 115.6169785,
+  "tags": {
+    "name": "Thousand Islands Viewpoint",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 6720463914,
+  "lat": -8.5186294,
+  "lon": 115.2596147,
+  "tags": {
+    "name": "Monkey Feeding Place",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 6731544685,
+  "lat": -8.1334407,
+  "lon": 114.6444852,
+  "tags": {
+    "name:fr": "Balançoire et point de vue",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 6737778485,
+  "lat": -8.6719930,
+  "lon": 115.5592205,
+  "tags": {
+    "name": "Speedboat port",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 6738670790,
+  "lat": -8.5019196,
+  "lon": 115.2624448,
+  "tags": {
+    "name": "Kajeng Rice field",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 6744104286,
+  "lat": -8.7855079,
+  "lon": 115.5747718,
+  "tags": {
+    "name": "Bukit Teletubies",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 6751879192,
+  "lat": -8.5085538,
+  "lon": 115.2665979,
+  "tags": {
+    "addr:street": "Jalan Raya Ubud",
+    "name:fr": "Neka Gallery",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "node",
+  "id": 6759247586,
+  "lat": -8.5013235,
+  "lon": 115.2375000,
+  "tags": {
+    "name:fr": "Swing Heaven Bali",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 6794269585,
+  "lat": -8.4473023,
+  "lon": 115.4356146,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 6807865955,
+  "lat": -8.7083470,
+  "lon": 115.4384404,
+  "tags": {
+    "description:en": "Viewpoint on Blue Lagoon",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 6887628385,
+  "lat": -8.8119105,
+  "lon": 115.1696726,
+  "tags": {
+    "name:ru": "Лучший и бесплатный вид на Вишну",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 6900078686,
+  "lat": -8.7231280,
+  "lon": 115.4475945,
+  "tags": {
+    "name": "Best Cove Sprays on the Island",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 6905052685,
+  "lat": -8.5095726,
+  "lon": 115.5657101,
+  "tags": {
+    "name": "Point of view",
+    "name:ru": "Обзор",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 6905082885,
+  "lat": -8.5093596,
+  "lon": 115.5638427,
+  "tags": {
+    "name": "Point of view",
+    "name:ru": "Обзор",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 6917814986,
+  "lat": -8.7363374,
+  "lon": 115.1674775,
+  "tags": {
+    "name": "Big gallery Bali Arts & Goods",
+    "note": "a lot of souvenirs for a good price, magnets, coffee, tea etc.",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "node",
+  "id": 6930069190,
+  "lat": -8.6212249,
+  "lon": 115.0868804,
+  "tags": {
+    "addr:city": "Beraban, Kediri",
+    "addr:postcode": "82121",
+    "addr:street": "Jl. Raya Tanah Lot",
+    "amenity": "place_of_worship",
+    "image": "https://photos.app.goo.gl/XdgAbKB4u4vPM8h67",
+    "name": "Tanah Lot",
+    "name:de": "Tanah Lot",
+    "name:en": "Tanah Lot Temple",
+    "name:id": "Pura Tanah Lot",
+    "name:ja": "タナロット寺院",
+    "name:ru": "Земля в воде",
+    "name:zh": "海神庙",
+    "opening_hours": "07:00-19:00",
+    "phone": "+62 361 880361",
+    "religion": "hindu",
+    "tourism": "attraction",
+    "url": "https://youtu.be/RQkVk2B0ujw",
+    "wikidata": "Q515253",
+    "wikimedia_commons": "Category:Pura Tanah Lot",
+    "wikipedia": "en:Tanah Lot"
+  }
+},
+{
+  "type": "node",
+  "id": 6934301298,
+  "lat": -8.1616583,
+  "lon": 114.6533579,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 6934301334,
+  "lat": -8.1588383,
+  "lon": 114.6520500,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 6934375386,
+  "lat": -8.6758422,
+  "lon": 115.5121911,
+  "tags": {
+    "addr:postcode": "80771",
+    "addr:street": "Jalan Raya Toya Pakeh - Ped",
+    "email": "info@apneapenida.com",
+    "name": "Apnea Penida Freediving and Yoga school",
+    "opening_hours": "Mo-Su 08:00-18:00",
+    "operator": "www.apneapenida.com",
+    "phone": "+62 821 4681 5129",
+    "tourism": "attraction",
+    "website": "https://apneapenida.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 6936601985,
+  "lat": -8.7926402,
+  "lon": 115.1489974,
+  "tags": {
+    "addr:postcode": "80361",
+    "addr:street": "Jalan Karang Mas",
+    "name": "Go Kart Bali",
+    "opening_hours": "Mo-Su 10:00-18:00",
+    "phone": "+62 812-3996-5343",
+    "tourism": "attraction",
+    "website": "http://www.kartingstarbali.com"
+  }
+},
+{
+  "type": "node",
+  "id": 6940858885,
+  "lat": -8.5145326,
+  "lon": 115.2681638,
+  "tags": {
+    "name": "Traditional public shower",
+    "name:es": "Duchas tradicionales públicas",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 6954349885,
+  "lat": -8.8343861,
+  "lon": 115.0963001,
+  "tags": {
+    "addr:street": "Raya Uluwatu",
+    "name": "Jambe Asri Agroturism",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7013061385,
+  "lat": -8.6746333,
+  "lon": 115.4924577,
+  "tags": {
+    "addr:street": "Jalan Raya Toya Pakeh - Ped",
+    "email": "info@scubajunkiepenida.com",
+    "name": "Scuba Junkie Penida",
+    "opening_hours": "Mo-Su 07:00-18:00",
+    "phone": "+62 813-3895-6239",
+    "tourism": "attraction",
+    "website": "https://www.scubajunkiepenida.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 7020944945,
+  "lat": -8.7244936,
+  "lon": 115.1734897,
+  "tags": {
+    "description": "paintings",
+    "name": "Art Shop Wahyu",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "node",
+  "id": 7042775176,
+  "lat": -8.6844677,
+  "lon": 115.2644856,
+  "tags": {
+    "name": "Sindu Dwarawati Turtle Conservation",
+    "phone": "+62-81-237079919",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7077045587,
+  "lat": -8.4551703,
+  "lon": 115.1678642,
+  "tags": {
+    "name": "Anak Lingsir",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7108618872,
+  "lat": -8.7024931,
+  "lon": 115.1843775,
+  "tags": {
+    "name": "Trans Studio Bali",
+    "tourism": "theme_park"
+  }
+},
+{
+  "type": "node",
+  "id": 7135830485,
+  "lat": -8.8367560,
+  "lon": 115.0884100,
+  "tags": {
+    "name": "Karang Boma Cliff",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7158320685,
+  "lat": -8.8352730,
+  "lon": 115.0873034,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 7161425485,
+  "lat": -8.2365949,
+  "lon": 115.3782640,
+  "tags": {
+    "name": "Steam point",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7176822586,
+  "lat": -8.7531254,
+  "lon": 115.4720191,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 7187490385,
+  "lat": -8.3079220,
+  "lon": 114.5184170,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 7189414185,
+  "lat": -8.0900011,
+  "lon": 115.2677058,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 7251978285,
+  "lat": -8.3803683,
+  "lon": 115.6376688,
+  "tags": {
+    "name": "Aging view",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 7253924386,
+  "lat": -8.3790096,
+  "lon": 115.6387011,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 7255408650,
+  "lat": -8.2676388,
+  "lon": 115.3421880,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 7267052086,
+  "lat": -8.6744709,
+  "lon": 115.1459670,
+  "tags": {
+    "name": "Berawa Beach",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 7281543786,
+  "lat": -8.4545298,
+  "lon": 115.2607819,
+  "tags": {
+    "name": "Five Art Studio",
+    "phone": "+62 812 3685 0616",
+    "tourism": "gallery",
+    "website": "https://fiveartubud.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 7296256485,
+  "lat": -8.7799515,
+  "lon": 115.1474929,
+  "tags": {
+    "name": "Pantai Plix",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7318685585,
+  "lat": -8.1604897,
+  "lon": 115.0296651,
+  "tags": {
+    "addr:street": "Jl. Seririt-Singaraja",
+    "internet_access": "wlan",
+    "name": "Puri Ayodya",
+    "phone": "+62 813-3749-5049",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 7324515285,
+  "lat": -8.3781699,
+  "lon": 115.6381083,
+  "tags": {
+    "name": "Agung best view",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 7326391585,
+  "lat": -8.7698428,
+  "lon": 115.1691090,
+  "tags": {
+    "name:ru": "центральный вход на джимбаран",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7326391785,
+  "lat": -8.8252426,
+  "lon": 115.2202007,
+  "tags": {
+    "name:ru": "Обзорная площадка",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 7371223085,
+  "lat": -8.1621363,
+  "lon": 114.6217124,
+  "tags": {
+    "name": "Hike to a river",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7388214985,
+  "lat": -8.4465865,
+  "lon": 115.5300063,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 7388750085,
+  "lat": -8.4671304,
+  "lon": 115.5913737,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 7393753100,
+  "lat": -8.1154264,
+  "lon": 114.6157468,
+  "tags": {
+    "name": "island",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 7394045085,
+  "lat": -8.4113604,
+  "lon": 115.5904311,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 7440334185,
+  "lat": -8.1277265,
+  "lon": 114.6121523,
+  "tags": {
+    "name": "sunset",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 7455642185,
+  "lat": -8.1201995,
+  "lon": 114.6062936,
+  "tags": {
+    "name": "an island",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7498596149,
+  "lat": -8.2876741,
+  "lon": 115.3682882,
+  "tags": {
+    "name": "Tupik",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 7562468185,
+  "lat": -8.2423363,
+  "lon": 115.3829805,
+  "tags": {
+    "name:ru": "Вид на озеро",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 7618834685,
+  "lat": -8.3719926,
+  "lon": 115.6152941,
+  "tags": {
+    "name": "view point",
+    "name:ru": "Вид на горы и море и поля",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 7643034686,
+  "lat": -8.2793409,
+  "lon": 115.0382718,
+  "tags": {
+    "name": "Rice terrace",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 7655941685,
+  "lat": -8.2584474,
+  "lon": 115.3923399,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 7689648885,
+  "lat": -8.3359971,
+  "lon": 115.6582962,
+  "tags": {
+    "name": "Sunrise point",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7740148186,
+  "lat": -8.7886630,
+  "lon": 115.5936720,
+  "tags": {
+    "name": "Abangan Hill viewpoint",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7798235285,
+  "lat": -8.3719486,
+  "lon": 115.6370773,
+  "tags": {
+    "name": "Lahangan Sweet",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 7819784086,
+  "lat": -8.2281877,
+  "lon": 115.0344107,
+  "tags": {
+    "name": "Angkringan Alas Ngrengo",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 8058133185,
+  "lat": -8.1693231,
+  "lon": 115.1041365,
+  "tags": {
+    "name": "Alam Sambangan",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 8201921966,
+  "lat": -8.2664617,
+  "lon": 115.0815743,
+  "tags": {
+    "addr:city": "singaraja",
+    "addr:street": "munduk buleleng bali",
+    "description": "Plan your adventure vacation in munduk escape",
+    "name": "Munduk Escape",
+    "operator": "Kori Wardhana",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 8322772583,
+  "lat": -8.4212728,
+  "lon": 115.6120183,
+  "tags": {
+    "name": "Museum Pustaka Lontar",
+    "tourism": "museum",
+    "wikidata": "Q104827844"
+  }
+},
+{
+  "type": "node",
+  "id": 8594813817,
+  "lat": -8.5170193,
+  "lon": 115.5810075,
+  "tags": {
+    "name": "Temple",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 8654725849,
+  "lat": -8.4652902,
+  "lon": 115.1644779,
+  "tags": {
+    "museum": "history",
+    "name": "Battle of Margarana History Museum",
+    "name:id": "Gedung Sejarah Perjuangan Puputan Margarana",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 8703423234,
+  "lat": -8.5242016,
+  "lon": 114.9905845,
+  "tags": {
+    "name": "Pantai Batu Lumbang",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 8813151783,
+  "lat": -8.3054337,
+  "lon": 115.0842478,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 9307536469,
+  "lat": -8.4911060,
+  "lon": 115.3600426,
+  "tags": {
+    "name": "Air Terjun Kuning",
+    "tourism": "attraction",
+    "waterway": "waterfall"
+  }
+},
+{
+  "type": "node",
+  "id": 9465098510,
+  "lat": -8.5090432,
+  "lon": 115.2724469,
+  "tags": {
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9813559006,
+  "lat": -8.6575238,
+  "lon": 115.2269565,
+  "tags": {
+    "name": "Pasraman Rwa Bhineda Bali",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 9865440224,
+  "lat": -8.5303405,
+  "lon": 115.5141999,
+  "tags": {
+    "name": "Blue Lagoon snorkeling",
+    "natural": "reef",
+    "scuba_diving:type:snorkeling": "yes",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9872073718,
+  "lat": -8.5483166,
+  "lon": 115.2162661,
+  "tags": {
+    "name": "Barrage",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 9872091347,
+  "lat": -8.5464987,
+  "lon": 115.2167527,
+  "tags": {
+    "name": "Split of Ayung. Beginning of channel",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 9899491917,
+  "lat": -8.5937129,
+  "lon": 115.2728482,
+  "tags": {
+    "name": "Ganeca Silver Making Class",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9900248386,
+  "lat": -8.3335871,
+  "lon": 115.6415785,
+  "tags": {
+    "name": "AMED SELFIE POINT",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9904500013,
+  "lat": -8.3637145,
+  "lon": 115.6454626,
+  "tags": {
+    "direction": "335",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 9921821717,
+  "lat": -8.4446244,
+  "lon": 115.0656849,
+  "tags": {
+    "name": "Village",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9923693317,
+  "lat": -8.4322043,
+  "lon": 115.0670368,
+  "tags": {
+    "name": "Waterfall",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9926482017,
+  "lat": -8.5908005,
+  "lon": 115.0681108,
+  "tags": {
+    "name": "Yeh Gangga Beach",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9933332669,
+  "lat": -8.4378710,
+  "lon": 115.5349253,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 9933354243,
+  "lat": -8.4621761,
+  "lon": 115.5164374,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 9933530917,
+  "lat": -8.4042098,
+  "lon": 114.6109165,
+  "tags": {
+    "name": "Kurma Asih Sea Turtle Conservation Center",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9935718580,
+  "lat": -8.4924651,
+  "lon": 115.5957040,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 9953291463,
+  "lat": -8.3466894,
+  "lon": 115.5658960,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 9953323098,
+  "lat": -8.5357626,
+  "lon": 115.4114083,
+  "tags": {
+    "name": "Colored stones",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9953323099,
+  "lat": -8.5353916,
+  "lon": 115.4111072,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 9963608117,
+  "lat": -8.6691113,
+  "lon": 115.5105245,
+  "tags": {
+    "name": "Sental",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9977371488,
+  "lat": -8.5472813,
+  "lon": 115.4704553,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 9980431765,
+  "lat": -8.5418264,
+  "lon": 115.4984097,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 10001015817,
+  "lat": -8.2637989,
+  "lon": 115.0216114,
+  "tags": {
+    "name": "Valley and rice fields",
+    "name:fr": "Vallée et les rizières",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 10011360795,
+  "lat": -8.4793987,
+  "lon": 115.4079744,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 10011360796,
+  "lat": -8.4786521,
+  "lon": 115.4080915,
+  "tags": {
+    "name": "Palm Grove",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 10015162117,
+  "lat": -8.4145238,
+  "lon": 115.5906483,
+  "tags": {
+    "name": "Rizières d’Ababi",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 10136570217,
+  "lat": -8.4599516,
+  "lon": 115.4458921,
+  "tags": {
+    "name": "Yellow Bridge",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 10162229683,
+  "lat": -8.4099539,
+  "lon": 115.5378186,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 10201633117,
+  "lat": -8.5229011,
+  "lon": 115.2570676,
+  "tags": {
+    "addr:housenumber": "6",
+    "addr:street": "Jalan Nyuh Bojog",
+    "name": "Museum Pendet",
+    "opening_hours": "Su-Sa 13:00-17:00",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 10208648218,
+  "lat": -8.4143876,
+  "lon": 115.3159951,
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "Tirta Empul",
+    "religion": "hindu",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 10225104917,
+  "lat": -8.7600498,
+  "lon": 115.2227585,
+  "tags": {
+    "name": "Water sport",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 10225138918,
+  "lat": -8.4840088,
+  "lon": 115.2674465,
+  "tags": {
+    "name": "Floating garden",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 10232568754,
+  "lat": -8.5009314,
+  "lon": 114.9611942,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 10238235154,
+  "lat": -8.4979133,
+  "lon": 114.9555520,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 10268908058,
+  "lat": -8.7177902,
+  "lon": 115.1744334,
+  "tags": {
+    "leisure": "catapult",
+    "name": "5GX",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 10277216123,
+  "lat": -8.1493666,
+  "lon": 114.6840425,
+  "tags": {
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 10286066189,
+  "lat": -8.5125505,
+  "lon": 115.2612890,
+  "tags": {
+    "addr:city": "Ubud",
+    "addr:postcode": "80571",
+    "addr:street": "Monkey Forest",
+    "name": "Komaneka Fine Art Gallery",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "node",
+  "id": 10286105293,
+  "lat": -8.7385233,
+  "lon": 115.1803561,
+  "tags": {
+    "addr:city": "Tuban, Kuta, Kabupaten Badung, Bali, Indonesia",
+    "addr:housenumber": "No  50",
+    "addr:street": "Jalan Bypass Ngurah Rai",
+    "building": "yes",
+    "name": "Galeri Zen1",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "node",
+  "id": 10308685103,
+  "lat": -8.4434187,
+  "lon": 115.3872408,
+  "tags": {
+    "name": "Waterfall Cave",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 10314896612,
+  "lat": -8.1929773,
+  "lon": 114.4430387,
+  "tags": {
+    "historic": "monument",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 10576317035,
+  "lat": -8.5385902,
+  "lon": 115.4770256,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 10602795706,
+  "lat": -8.8466734,
+  "lon": 115.1598404,
+  "tags": {
+    "name": "Banyan Tree Chapel",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 10656579491,
+  "lat": -8.1822654,
+  "lon": 115.1798050,
+  "tags": {
+    "name": "Natural water slide",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 10736293005,
+  "lat": -8.3513199,
+  "lon": 115.6526767,
+  "tags": {
+    "name": "Valley and Agung view point",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 10763647505,
+  "lat": -8.7333908,
+  "lon": 115.4489958,
+  "tags": {
+    "name": "View of Angel Billabong",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 10766427205,
+  "lat": -8.6770041,
+  "lon": 115.4883565,
+  "tags": {
+    "name": "Toyapakeh Ferry Port",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 10798324100,
+  "lat": -8.1770129,
+  "lon": 115.1822243,
+  "tags": {
+    "direction": "S",
+    "name": "View only area",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 10814199407,
+  "lat": -8.7850594,
+  "lon": 115.1378208,
+  "tags": {
+    "name": "Ocean Beach Pool",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 10861041705,
+  "lat": -8.5423050,
+  "lon": 115.0834472,
+  "tags": {
+    "name": "Puri Anyar Royal Palace Kerambitan",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 10875113206,
+  "lat": -8.6918714,
+  "lon": 115.4395959,
+  "tags": {
+    "name": "Gala-Gala Underground House",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 10880685405,
+  "lat": -8.5407921,
+  "lon": 115.0192687,
+  "tags": {
+    "name": "DEWA SIWA, TIRTA PANCA TIRTA",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 10911211767,
+  "lat": -8.2172526,
+  "lon": 115.4167232,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 10918326348,
+  "lat": -8.1945653,
+  "lon": 115.3960859,
+  "tags": {
+    "check_date": "2023-06-08",
+    "direction": "190",
+    "ele": "1380",
+    "image": "https://photos.google.com/photo/AF1QipP_wmbyncQwdUiZJmcm3E_bzoaYMOXwPUEAmYH4",
+    "name": "Not So Interest",
+    "source": "gps;survey;local knowledge",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 10921784866,
+  "lat": -8.2484274,
+  "lon": 115.4287157,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 10923832345,
+  "lat": -8.6552447,
+  "lon": 115.1251799,
+  "tags": {
+    "name": "Sunset watching spot",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 10943968159,
+  "lat": -8.2793880,
+  "lon": 115.5328965,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 10945551611,
+  "lat": -8.4347907,
+  "lon": 115.2790169,
+  "tags": {
+    "name": "Entrance to rice terraces",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 10948397505,
+  "lat": -8.6710890,
+  "lon": 115.4475023,
+  "tags": {
+    "name": "Jungutbatu Beach",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 10948407405,
+  "lat": -8.6806719,
+  "lon": 115.4348596,
+  "tags": {
+    "name": "Hidden Beach",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 10956474405,
+  "lat": -8.7081277,
+  "lon": 115.4380453,
+  "tags": {
+    "description:en": "Whirlpool viewpoint",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 10957556956,
+  "lat": -8.2355202,
+  "lon": 115.0711261,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 10960689005,
+  "lat": -8.8388709,
+  "lon": 115.2014303,
+  "tags": {
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 10960689105,
+  "lat": -8.4509835,
+  "lon": 115.3279779,
+  "tags": {
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 10960689305,
+  "lat": -8.2690844,
+  "lon": 115.3857756,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 10961990253,
+  "lat": -8.1659052,
+  "lon": 115.2515489,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 10961990269,
+  "lat": -8.0858021,
+  "lon": 115.2533778,
+  "tags": {
+    "direction": "300",
+    "name": "Sunset view point",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 10962906354,
+  "lat": -8.4619755,
+  "lon": 115.5163513,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 10962906356,
+  "lat": -8.3760585,
+  "lon": 115.6489065,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 10965587014,
+  "lat": -8.3934462,
+  "lon": 115.7089609,
+  "tags": {
+    "name": "Picnic shelters",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 10965608281,
+  "lat": -8.3683016,
+  "lon": 115.6089024,
+  "tags": {
+    "name": "View Point To Rice Terrace",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 10967718699,
+  "lat": -8.2050552,
+  "lon": 115.3557718,
+  "tags": {
+    "direction": "135",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 10972280248,
+  "lat": -8.2808162,
+  "lon": 115.3619571,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 10972315970,
+  "lat": -8.1646811,
+  "lon": 115.3209392,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 10973891657,
+  "lat": -8.1860457,
+  "lon": 115.1069399,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 10973949016,
+  "lat": -8.1743504,
+  "lon": 115.1057703,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 10981787504,
+  "lat": -8.1868458,
+  "lon": 115.0567294,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 11001121733,
+  "lat": -8.5385661,
+  "lon": 115.4768394,
+  "tags": {
+    "name": "Bukit Tengah",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 11005334520,
+  "lat": -8.2663279,
+  "lon": 115.0541049,
+  "tags": {
+    "description": "Sunset view",
+    "direction": "290",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 11024073605,
+  "lat": -8.5095718,
+  "lon": 115.0173431,
+  "tags": {
+    "name": "Amazing Rice Fields",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 11048067655,
+  "lat": -8.6852243,
+  "lon": 115.4286990,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 11048146436,
+  "lat": -8.2597844,
+  "lon": 115.0809832,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 11057024205,
+  "lat": -8.6303576,
+  "lon": 115.1449694,
+  "tags": {
+    "name": "Scenic rice fields route",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 11090790605,
+  "lat": -8.4765007,
+  "lon": 115.4350679,
+  "tags": {
+    "name": "Viewpoint on the rice field",
+    "name:fr": "Point de vue sur les rizières",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 11109255637,
+  "lat": -8.5024126,
+  "lon": 115.3293474,
+  "tags": {
+    "addr:street": "Path to Pengibul Waterfall",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 11203882310,
+  "lat": -8.2724702,
+  "lon": 115.3473648,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 11203882311,
+  "lat": -8.2727097,
+  "lon": 115.3476115,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 11260335927,
+  "lat": -8.6668002,
+  "lon": 115.2615435,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 11260336042,
+  "lat": -8.6664384,
+  "lon": 115.2629274,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 11279051085,
+  "lat": -8.1423301,
+  "lon": 114.6622150,
+  "tags": {
+    "name": "That Pemuteran Tree",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 11353455966,
+  "lat": -8.8014874,
+  "lon": 115.1546762,
+  "tags": {
+    "name": "Leka Art Space",
+    "name:id": "Leka Studio",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "node",
+  "id": 11397543169,
+  "lat": -8.3498948,
+  "lon": 115.6834590,
+  "tags": {
+    "name": "Corals Garden",
+    "name:fr": "Jardin de coraux",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 11464625889,
+  "lat": -8.6940825,
+  "lon": 115.4529800,
+  "tags": {
+    "description": "Mangrove observation tower",
+    "man_made": "tower",
+    "tourism": "viewpoint",
+    "tower:type": "observation"
+  }
+},
+{
+  "type": "node",
+  "id": 11499695049,
+  "lat": -8.2657908,
+  "lon": 115.0447711,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 11530126678,
+  "lat": -8.7468771,
+  "lon": 115.4521437,
+  "tags": {
+    "name": "Tare Lagoon",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 11533306169,
+  "lat": -8.4170828,
+  "lon": 115.3146287,
+  "tags": {
+    "addr:street": "Jl. Raya Kintamani No.16, Manukaya, Kec. Tampaksiring, Kabupaten Gianyar, Bali 80552",
+    "phone": "+6287840275883",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 11593205969,
+  "lat": -8.4292395,
+  "lon": 115.5342958,
+  "tags": {
+    "name": "Samsara Living Museum",
+    "tourism": "museum",
+    "website": "https://samsarabali.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 11597761169,
+  "lat": -8.4561084,
+  "lon": 115.5253727,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 11597790869,
+  "lat": -8.4267559,
+  "lon": 115.6757286,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 11597790969,
+  "lat": -8.4119188,
+  "lon": 115.5861402,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 11597810469,
+  "lat": -8.5502359,
+  "lon": 115.4809965,
+  "tags": {
+    "name": "Nice ocean lookout area with statue",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 11609690770,
+  "lat": -8.4996292,
+  "lon": 114.9680134,
+  "tags": {
+    "name": "Shankari's Artist Sanctuary",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "node",
+  "id": 11686490655,
+  "lat": -8.5369002,
+  "lon": 115.2315864,
+  "tags": {
+    "name": "Aqueduct",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 11751460569,
+  "lat": -8.5049645,
+  "lon": 115.2544489,
+  "tags": {
+    "name": "Old Dutch Suspension Bridge",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 11752426001,
+  "lat": -8.8434482,
+  "lon": 115.1111869,
+  "tags": {
+    "direction": "125-245",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 11752426040,
+  "lat": -8.8464612,
+  "lon": 115.1416663,
+  "tags": {
+    "direction": "95-265",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 11757576635,
+  "lat": -8.7972501,
+  "lon": 115.2364917,
+  "tags": {
+    "direction": "300-80",
+    "name": "Lineup View",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 11757698073,
+  "lat": -8.7983744,
+  "lon": 115.2371172,
+  "tags": {
+    "direction": "30-230",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 11757698078,
+  "lat": -8.7972153,
+  "lon": 115.2371650,
+  "tags": {
+    "direction": "310-100",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 11777885205,
+  "lat": -8.8124522,
+  "lon": 115.1064110,
+  "tags": {
+    "name": "MBV Gallery",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "node",
+  "id": 11778036119,
+  "lat": -8.4954372,
+  "lon": 115.2556350,
+  "tags": {
+    "direction": "285",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 11778036129,
+  "lat": -8.4970273,
+  "lon": 115.2552574,
+  "tags": {
+    "direction": "275",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 11781902566,
+  "lat": -8.2645656,
+  "lon": 115.2427500,
+  "tags": {
+    "name": "Old Giant Tree",
+    "natural": "tree",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 11781910171,
+  "lat": -8.2594419,
+  "lon": 115.3554427,
+  "tags": {
+    "name": "Valley of Cairns",
+    "name:ru": "Долина туриков",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 11782176041,
+  "lat": -8.1738434,
+  "lon": 115.1065440,
+  "tags": {
+    "leisure": "swimming_pool",
+    "name": "10m Jump",
+    "sport": "swimming",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 11782209376,
+  "lat": -8.1745815,
+  "lon": 115.1063078,
+  "tags": {
+    "natural": "tree",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 11782209416,
+  "lat": -8.1741937,
+  "lon": 115.1064643,
+  "tags": {
+    "leisure": "swimming_pool",
+    "name": "5m Jump",
+    "sport": "swimming",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 11795905569,
+  "lat": -8.4396072,
+  "lon": 115.2802855,
+  "tags": {
+    "name": "alas harum",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 11882769932,
+  "lat": -8.4263134,
+  "lon": 115.6076018,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 11949232714,
+  "lat": -8.2594662,
+  "lon": 115.0668668,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 11949475964,
+  "lat": -8.2601733,
+  "lon": 115.0672488,
+  "tags": {
+    "direction": "265",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 11949535114,
+  "lat": -8.2585513,
+  "lon": 115.0683868,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 11953273957,
+  "lat": -8.2665597,
+  "lon": 115.0489527,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 11957663783,
+  "lat": -8.6908346,
+  "lon": 115.4305133,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 11963893639,
+  "lat": -8.7706632,
+  "lon": 115.4965433,
+  "tags": {
+    "direction": "267",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 11963893642,
+  "lat": -8.7706779,
+  "lon": 115.4970478,
+  "tags": {
+    "direction": "203",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 11991192369,
+  "lat": -8.1891023,
+  "lon": 114.9082955,
+  "tags": {
+    "name": "Rice fields",
+    "name:en": "Beautiful rice fields",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 12052475969,
+  "lat": -8.2837348,
+  "lon": 115.6028731,
+  "tags": {
+    "name": "Emerald",
+    "sport": "scuba_diving",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 12173126920,
+  "lat": -8.4148907,
+  "lon": 115.3017546,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 12223641801,
+  "lat": -8.4160703,
+  "lon": 115.3030516,
+  "tags": {
+    "name": "Kepala niasa",
+    "name:en": "Skull stone",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 12242568301,
+  "lat": -8.4339769,
+  "lon": 115.2799558,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 12244577450,
+  "lat": -8.2264708,
+  "lon": 115.4249935,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 12244577453,
+  "lat": -8.2291121,
+  "lon": 115.4241324,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 12248424005,
+  "lat": -8.1824200,
+  "lon": 115.1831819,
+  "tags": {
+    "name": "Rice Terrace",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 12249733916,
+  "lat": -8.2170149,
+  "lon": 115.1704589,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 12250525936,
+  "lat": -8.2038938,
+  "lon": 115.1384344,
+  "tags": {
+    "name": "GitGit Upper Point",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 12250525938,
+  "lat": -8.2367896,
+  "lon": 115.1573653,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 12254980620,
+  "lat": -8.1906903,
+  "lon": 115.0611715,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 12264304937,
+  "lat": -8.2253943,
+  "lon": 115.0777359,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 12264317649,
+  "lat": -8.2066752,
+  "lon": 115.1178463,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 12269123226,
+  "lat": -8.1761504,
+  "lon": 115.1059376,
+  "tags": {
+    "name": "Waterfall",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 12277269436,
+  "lat": -8.2772100,
+  "lon": 115.3515596,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 12277269437,
+  "lat": -8.4773548,
+  "lon": 115.3985712,
+  "tags": {
+    "image": "https://photos.app.goo.gl/p8GScJe1LP3owpqYA",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 12289280552,
+  "lat": -8.3423686,
+  "lon": 115.1849776,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 12289370606,
+  "lat": -8.2299307,
+  "lon": 115.0623240,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 12290396631,
+  "lat": -8.2597471,
+  "lon": 115.0803617,
+  "tags": {
+    "name": "The View Restoran",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 12290398867,
+  "lat": -8.2540398,
+  "lon": 115.0790996,
+  "tags": {
+    "direction": "0",
+    "name": "Waterfall",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 12300661855,
+  "lat": -8.3011309,
+  "lon": 114.6616667,
+  "tags": {
+    "name": "Wisata Puncak JR Jembrana Bali",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 12301911355,
+  "lat": -8.3256777,
+  "lon": 114.6384072,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 12403734766,
+  "lat": -8.6271062,
+  "lon": 115.0975456,
+  "tags": {
+    "charge": "100000IR",
+    "check_date": "2024-12-08",
+    "fee": "yes",
+    "name": "Pacha Alpaca",
+    "payment:cards": "no",
+    "payment:cash": "yes",
+    "payment:credit_cards": "no",
+    "payment:debit_cards": "no",
+    "tourism": "zoo",
+    "zoo": "petting_zoo"
+  }
+},
+{
+  "type": "node",
+  "id": 12436976455,
+  "lat": -8.2066234,
+  "lon": 115.1177237,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 12468702601,
+  "lat": -8.1508547,
+  "lon": 114.6976679,
+  "tags": {
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 12507256786,
+  "lat": -8.6277071,
+  "lon": 115.0948817,
+  "tags": {
+    "name": "Odyssey Garden",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 12507365207,
+  "lat": -8.6296873,
+  "lon": 115.0974389,
+  "tags": {
+    "name": "Funky Place",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 12507365218,
+  "lat": -8.6254466,
+  "lon": 115.1002831,
+  "tags": {
+    "name": "Hearth",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 12507365219,
+  "lat": -8.6259038,
+  "lon": 115.1007778,
+  "tags": {
+    "name": "Jungle Kids",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 12507365221,
+  "lat": -8.6268511,
+  "lon": 115.0988637,
+  "tags": {
+    "name": "Lumeira",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 12507365231,
+  "lat": -8.6281295,
+  "lon": 115.0991902,
+  "tags": {
+    "name": "Nuanu Park",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 12507365233,
+  "lat": -8.6291508,
+  "lon": 115.0941449,
+  "tags": {
+    "name": "Gardenia",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 12507365263,
+  "lat": -8.6266924,
+  "lon": 115.0978932,
+  "tags": {
+    "name": "Magic Garden",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 12514147352,
+  "lat": -8.4930191,
+  "lon": 115.4618989,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 12531421501,
+  "lat": -8.2822878,
+  "lon": 115.3635778,
+  "tags": {
+    "name": "Mount Batur Viewpoint",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 12625790705,
+  "lat": -8.5190046,
+  "lon": 115.2581285,
+  "tags": {
+    "name": "Manley forest",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 12625791103,
+  "lat": -8.2808896,
+  "lon": 115.3623590,
+  "tags": {
+    "name": "Вулкан Батур",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 12625791205,
+  "lat": -8.4284681,
+  "lon": 115.2786472,
+  "tags": {
+    "name:ru": "Рисовые террасы",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 12625791206,
+  "lat": -8.2809158,
+  "lon": 115.3623544,
+  "tags": {
+    "name:ru": "Вулкан Батур",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 12625791207,
+  "lat": -8.4167027,
+  "lon": 115.3143004,
+  "tags": {
+    "name:ru": "Храм",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 12628297889,
+  "lat": -8.4820845,
+  "lon": 115.2691529,
+  "tags": {
+    "addr:city": "Ubud",
+    "addr:postcode": "80571",
+    "addr:province": "Bali",
+    "addr:street": "Jl.Sri Wedari No.82A",
+    "name": "Widya Batik Class",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "node",
+  "id": 12674247601,
+  "lat": -8.2412727,
+  "lon": 115.3819884,
+  "tags": {
+    "name": "Free road Jalur Baki Batur",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 12683620501,
+  "lat": -8.4950002,
+  "lon": 115.2177063,
+  "tags": {
+    "name": "Beautiful walking trek",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 12692209301,
+  "lat": -8.5113518,
+  "lon": 115.2662136,
+  "tags": {
+    "name": "ArtMan massage",
+    "opening_hours": "Mo-Su 09:00-19:00",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 12724466101,
+  "lat": -8.5931975,
+  "lon": 115.3471379,
+  "tags": {
+    "name": "Sunrise",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 12724702202,
+  "lat": -8.5367362,
+  "lon": 115.5087625,
+  "tags": {
+    "name": "Secret beach sunrise",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 12725082502,
+  "lat": -8.1654665,
+  "lon": 114.6759646,
+  "tags": {
+    "name": "Hindu temple",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 12728095801,
+  "lat": -8.6832937,
+  "lon": 115.2643982,
+  "tags": {
+    "name": "Sunrise beach",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 12748963701,
+  "lat": -8.5856924,
+  "lon": 115.3515371,
+  "tags": {
+    "name": "Sunrise wave",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 12755078801,
+  "lat": -8.5485275,
+  "lon": 115.2602271,
+  "tags": {
+    "name:fr": "satria agrowisata",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 12755079001,
+  "lat": -8.5010185,
+  "lon": 115.2633835,
+  "tags": {
+    "name:fr": "fabrication bague soi meme",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 12758924601,
+  "lat": -8.8335849,
+  "lon": 115.0872114,
+  "tags": {
+    "name": "Sunset Pura Luhur",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 12768318601,
+  "lat": -8.3771643,
+  "lon": 115.5365747,
+  "tags": {
+    "contact:instagram": "basecampg.agungviapuralawangan",
+    "name": "Basecamp Pendakian Gunung Agung via Pura Lawangan Nangka",
+    "name:en": "Basecamp Pendakian Gunung Agung from Pura Lawangan Nangka",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "node",
+  "id": 12799599001,
+  "lat": -8.4356520,
+  "lon": 115.2810909,
+  "tags": {
+    "name": "Free stairs leading to the Rice Terraces",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 12803131001,
+  "lat": -8.2297777,
+  "lon": 115.3669980,
+  "tags": {
+    "name": "Jeep Sunrise Point",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 12827598801,
+  "lat": -8.2877159,
+  "lon": 115.2735932,
+  "tags": {
+    "name": "Bali Island",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 12832892801,
+  "lat": -8.5821159,
+  "lon": 115.1365704,
+  "tags": {
+    "name": "Nunu Bali Retreat Hostel",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 12834836297,
+  "lat": -8.4319100,
+  "lon": 115.2788267,
+  "tags": {
+    "access": "customers",
+    "direction": "E",
+    "leisure": "swimming_pool",
+    "location": "outdoor",
+    "name": "Infinity pool",
+    "operator": "D'tukad coffee club",
+    "tourism": "viewpoint",
+    "website": "https://dtukad.com/coffeeclubbali/"
+  }
+},
+{
+  "type": "node",
+  "id": 12834836298,
+  "lat": -8.4400391,
+  "lon": 115.2807599,
+  "tags": {
+    "access": "customers",
+    "direction": "70",
+    "leisure": "swimming_pool",
+    "location": "outdoor",
+    "name": "Infinity pool",
+    "operator": "Cretya Ubud",
+    "tourism": "viewpoint",
+    "website": "https://cretyaubud.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 12836916958,
+  "lat": -8.5912841,
+  "lon": 115.2645589,
+  "tags": {
+    "addr:city": "Bali",
+    "addr:district": "Kabupaten Gianyar",
+    "addr:street": "Jl. Raya Singapadu",
+    "addr:subdistrict": "Kec. Sukawati",
+    "fee": "no",
+    "name": "Bali Zoo",
+    "opening_hours": "Mo-Su 09:00-17:00",
+    "tourism": "zoo"
+  }
+},
+{
+  "type": "node",
+  "id": 12843872701,
+  "lat": -8.6358991,
+  "lon": 115.1584756,
+  "tags": {
+    "name": "Santo Paulus Kulibul",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 12843873301,
+  "lat": -8.5940828,
+  "lon": 115.1745694,
+  "tags": {
+    "name": "Gereja Kristen Protestan Di Bali",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 12843873401,
+  "lat": -8.5876252,
+  "lon": 115.1789149,
+  "tags": {
+    "name": "Gareja Katolik Kristus Raja",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 12879129192,
+  "lat": -8.8490473,
+  "lon": 115.1612529,
+  "tags": {
+    "description": "A wooden structure shaped like a ship. Not an actual ship wreck.",
+    "name": "The Reji's Luxury Voyage 818",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 12909501836,
+  "lat": -8.2725286,
+  "lon": 115.0613632,
+  "tags": {
+    "description": "Rizières Dayang\nDayang Rice Terraces\nWalking or scooter path under the rice terraces, really beautiful and calm",
+    "name": "Rizières Dayang, terrasses",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 12913785001,
+  "lat": -8.2717175,
+  "lon": 115.0569950,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 12914215102,
+  "lat": -8.8030881,
+  "lon": 115.5518822,
+  "tags": {
+    "name": "The Manta Point",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 12927780526,
+  "lat": -8.3388111,
+  "lon": 115.6465301,
+  "tags": {
+    "description": "Cannot see Agung, just Amed.",
+    "name": "Viewpoint on Amed",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 12955269819,
+  "lat": -8.4223879,
+  "lon": 115.3597627,
+  "tags": {
+    "name": "Objek Wisata Penglipuran",
+    "operator": "Desa Adat Penglipuran",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 12990807825,
+  "lat": -8.8351236,
+  "lon": 115.2082818,
+  "tags": {
+    "name": "RUIG Paragliding",
+    "sport": "paragliding",
+    "tourism": "attraction",
+    "url": "https://www.riugparagliding.com"
+  }
+},
+{
+  "type": "node",
+  "id": 13068176387,
+  "lat": -8.2425676,
+  "lon": 115.3876828,
+  "tags": {
+    "name": "Motorbikes meeting point",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 13108480501,
+  "lat": -8.8388923,
+  "lon": 115.0971194,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 13119128101,
+  "lat": -8.8024743,
+  "lon": 115.5521885,
+  "tags": {
+    "name": "Manta Point Best View",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 13185719001,
+  "lat": -8.1760116,
+  "lon": 115.1819008,
+  "tags": {
+    "name": "Go ONLY to this place (20k entrance to waterfall) all different places for ticket they are scams! Don't stop in any other places before.",
+    "name:en": "Go ONLY to thia place (20k entrance to waterfall) all difrent they are scams! Don't stop in any other places before.",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 13185721201,
+  "lat": -8.1800236,
+  "lon": 115.1833143,
+  "tags": {
+    "name": "SCAMERS here! (200k for entrance to waterfall)",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 13185724001,
+  "lat": -8.2024027,
+  "lon": 115.1888931,
+  "tags": {
+    "name": "FREE waterfall entrance!",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 13185728101,
+  "lat": -8.4812091,
+  "lon": 115.2088014,
+  "tags": {
+    "name": "FREE entrance to monkey forest!",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 13188316701,
+  "lat": -8.5064339,
+  "lon": 115.2615641,
+  "tags": {
+    "name": "Prianka Ubud art market",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 13202132067,
+  "lat": -8.4719196,
+  "lon": 115.3128690,
+  "tags": {
+    "name": "Toya Selaka Waterfall Desa Petak",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 13202222246,
+  "lat": -8.4734014,
+  "lon": 115.3132969,
+  "tags": {
+    "name": "Toya Selaka Waterfall",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 13232265170,
+  "lat": -8.4864879,
+  "lon": 115.3182322,
+  "tags": {
+    "name": "Bulakan Magelung Warterfall",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 13232265174,
+  "lat": -8.4671317,
+  "lon": 115.3217594,
+  "tags": {
+    "name": "Jalur Trekking Puspa Aman Ke Bonnyuh",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 13232265175,
+  "lat": -8.4670365,
+  "lon": 115.3216972,
+  "tags": {
+    "name": "Hamparan Sawah",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 13232265176,
+  "lat": -8.4676529,
+  "lon": 115.3236334,
+  "tags": {
+    "name": "Taman Jimbar",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 13307602672,
+  "lat": -8.2756846,
+  "lon": 115.1659731,
+  "tags": {
+    "name": "ᬘᬦ᭄ᬤᬶᬩᬾᬦ᭄ᬢᬃᬧᬸᬭᬉᬮᬸᬦ᭄ᬤᬦᬸᬩᭂᬭᬢᬦ᭄᭟ Gapura Candi Bentar Pura Ulun Danu Beratan",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 13312490801,
+  "lat": -8.5201055,
+  "lon": 115.5105032,
+  "tags": {
+    "name": "Tanjung Jepun snorkeling",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 13313259901,
+  "lat": -8.4352254,
+  "lon": 115.2805822,
+  "tags": {
+    "name": "Rice terrace viewpoint",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 13369914101,
+  "lat": -8.6978314,
+  "lon": 115.4572823,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 13375187686,
+  "lat": -8.4829130,
+  "lon": 114.9809090,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 13463867601,
+  "lat": -8.1560411,
+  "lon": 114.6640523,
+  "tags": {
+    "name": "Helicopter",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 13525508698,
+  "lat": -8.2661323,
+  "lon": 115.4319945,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 13644484401,
+  "lat": -8.8098445,
+  "lon": 115.1059801,
+  "tags": {
+    "name": "Pemandangan Tebing Pantai",
+    "name:en": "Cliff Beach Viewpoint",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 13710799501,
+  "lat": -8.4007066,
+  "lon": 115.6167246,
+  "tags": {
+    "check_date": "2026-04-06",
+    "name": "Beautiful view at 5-6 p.m.",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 13712577202,
+  "lat": -8.4120346,
+  "lon": 115.5896700,
+  "tags": {
+    "check_date": "2026-04-07",
+    "name": "Outdoor terrace",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 13718947106,
+  "lat": -8.6361511,
+  "lon": 115.2131074,
+  "tags": {
+    "amenity": "fountain",
+    "lit": "yes",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 13727326211,
+  "lat": -8.6924681,
+  "lon": 115.1497974,
+  "tags": {
+    "address": "Pantai Kuta, Kuta, Kec. Kuta, Kabupaten Badung, Bali 80361",
+    "name": "Sunset Point Kuta",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 13865632954,
+  "lat": -8.4850050,
+  "lon": 115.5625721,
+  "tags": {
+    "name": "HoneyBee Farm & Luwak Coffee Agrotourism TDT",
+    "phone": "+62818561265",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 13879556301,
+  "lat": -8.8155550,
+  "lon": 115.1253620,
+  "tags": {
+    "amenity": "cafe",
+    "craft": "artist",
+    "name": "FLEUR - Café - Atelier d’artistes",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "node",
+  "id": 13994841501,
+  "lat": -8.6627130,
+  "lon": 115.2619860,
+  "tags": {
+    "name": "Sari Mertha Segara Desa Adat Kesiman",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 14016837212,
+  "lat": -8.7334945,
+  "lon": 115.4500794,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 14074192401,
+  "lat": -8.4695750,
+  "lon": 115.4370789,
+  "tags": {
+    "name": "Hidden hike",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 14098293201,
+  "lat": -8.3418480,
+  "lon": 115.4953349,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 14112034666,
+  "lat": -8.7598414,
+  "lon": 115.4832297,
+  "tags": {
+    "description": "better in the morning",
+    "name": "Bana Cliff viewpoint",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 14180435143,
+  "lat": -8.3664031,
+  "lon": 115.1983270,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 14251470201,
+  "lat": -8.4950919,
+  "lon": 115.2616659,
+  "tags": {
+    "name": "Pemandangan arah Gunung Agung",
+    "name:en": "Nice view of Mt Agung (with clear skies)",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 14305873503,
+  "lat": -8.7533617,
+  "lon": 115.2171635,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 14305873901,
+  "lat": -8.7525036,
+  "lon": 115.2179287,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 14320270968,
+  "lat": -8.7923131,
+  "lon": 115.2325364,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 14320270969,
+  "lat": -8.7924589,
+  "lon": 115.2325947,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 14320313457,
+  "lat": -8.7897731,
+  "lon": 115.2312414,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 14338028103,
+  "lat": -8.4214496,
+  "lon": 115.3171489,
+  "tags": {
+    "name": "banjar mancingan rice trekking",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 14338028206,
+  "lat": -8.2582759,
+  "lon": 115.1562469,
+  "tags": {
+    "name": "Hidden Strawberry Garden",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 41813096,
+  "center": {
+    "lat": -8.6939466,
+    "lon": 115.4509073
+  },
+  "tags": {
+    "bridge": "yes",
+    "bridge:structure": "suspension",
+    "highway": "unclassified",
+    "layer": "1",
+    "motorcar": "no",
+    "motorcycle": "yes",
+    "name": "Yellow Bridge",
+    "name:en": "Yellow Bridge",
+    "surface": "metal",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 70201730,
+  "center": {
+    "lat": -8.5445282,
+    "lon": 115.1385343
+  },
+  "tags": {
+    "name": "Subak",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 123203251,
+  "center": {
+    "lat": -8.4336234,
+    "lon": 115.2805351
+  },
+  "tags": {
+    "addr:street": "Jl. Raya Tagallalang",
+    "crop": "rice",
+    "landuse": "farmland",
+    "name": "Tegallalang Rice Terraces",
+    "name:en": "Tegallalang Rice Terraces",
+    "name:pl": "Tarasy ryżowe Tegallalang",
+    "name:ru": "Рисовые террасы Тегаллаланг",
+    "opening_hours": "Mo-Su 07:00-18:00",
+    "tourism": "attraction",
+    "wikidata": "Q123510179"
+  }
+},
+{
+  "type": "way",
+  "id": 132377687,
+  "center": {
+    "lat": -8.6443757,
+    "lon": 115.2568708
+  },
+  "tags": {
+    "email": "info@baliorchidgardens.com",
+    "internet_access": "wlan",
+    "leisure": "garden",
+    "name": "Bali Orchid Garden",
+    "name:de": "Bali Orchideen Garten",
+    "name:en": "Bali Orchid Garden",
+    "opening_hours": "Mo-Su 08:00-18:00",
+    "phone": "+62361466010",
+    "tourism": "attraction",
+    "website": "http://www.baliorchidgardens.com"
+  }
+},
+{
+  "type": "way",
+  "id": 192897158,
+  "center": {
+    "lat": -8.5000952,
+    "lon": 115.2601746
+  },
+  "tags": {
+    "highway": "living_street",
+    "motorcar": "no",
+    "motorcycle": "destination",
+    "name": "Rando Sweet Orange Walk Trail",
+    "surface": "concrete",
+    "tourism": "attraction",
+    "tracktype": "grade3",
+    "width": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 225532001,
+  "center": {
+    "lat": -8.4360746,
+    "lon": 115.2840654
+  },
+  "tags": {
+    "crop": "rice",
+    "landuse": "farmland",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 238194818,
+  "center": {
+    "lat": -8.5058511,
+    "lon": 115.2615233
+  },
+  "tags": {
+    "alt_name": "Ubud Water Palace",
+    "amenity": "place_of_worship",
+    "charge": "75 000 IDR",
+    "fee": "yes",
+    "name": "Pura Taman Saraswati",
+    "name:en": "Saraswati Temple",
+    "name:zh": "乌布水宫",
+    "religion": "hindu",
+    "tourism": "attraction",
+    "website": "https://ubudwaterpalace.com/",
+    "wikidata": "Q48841813",
+    "wikimedia_commons": "Category:Pura Taman Saraswati",
+    "wikipedia": "en:Pura Taman Saraswati"
+  }
+},
+{
+  "type": "way",
+  "id": 240066436,
+  "center": {
+    "lat": -8.4645321,
+    "lon": 115.6301242
+  },
+  "tags": {
+    "alt_name": "Taman Sukasada Ujung Karangasem",
+    "historic": "yes",
+    "leisure": "garden",
+    "name": "Taman Ujung Water Palace",
+    "name:ru": "Водный дворец Таман Уджунг",
+    "opening_hours": "08:00-17:00",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 240887756,
+  "center": {
+    "lat": -8.5356852,
+    "lon": 115.4033463
+  },
+  "tags": {
+    "building": "temple",
+    "historic": "yes",
+    "image": "https://photos.app.goo.gl/UYG9eC7MLRuqdGqh8",
+    "tourism": "attraction",
+    "wikidata": "Q107366851",
+    "wikimedia_commons": "Category:Bale Kambang"
+  }
+},
+{
+  "type": "way",
+  "id": 284575978,
+  "center": {
+    "lat": -8.5067231,
+    "lon": 115.2627070
+  },
+  "tags": {
+    "addr:city": "Ubud, Kecamatan Gianyar, Kabupaten Gianyar, Bali, Indonesia",
+    "addr:postcode": "80571",
+    "addr:street": "Jalan Raya Ubud",
+    "castle_type": "palace",
+    "historic": "castle",
+    "image": "https://photos.app.goo.gl/Q8YD7jimhcu4A9bF7",
+    "name": "Puri Saren Agung",
+    "name:en": "Puri Saren Agung Ubud Palace",
+    "name:zh": "烏布皇宮;乌布皇宫",
+    "opening_hours": "09:00-18:00,09:00-19:00",
+    "tourism": "attraction",
+    "url": "https://youtu.be/DVnm-nIhz7w",
+    "wikidata": "Q19646466",
+    "wikimedia_commons": "Category:Puri Saren Agung",
+    "wikipedia": "en:Ubud Palace"
+  }
+},
+{
+  "type": "way",
+  "id": 292810811,
+  "center": {
+    "lat": -8.6992825,
+    "lon": 115.4364107
+  },
+  "tags": {
+    "name": "Surf Breaks",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 311676978,
+  "center": {
+    "lat": -8.6575584,
+    "lon": 115.2186801
+  },
+  "tags": {
+    "landuse": "commercial",
+    "name": "Museum Bali",
+    "opening_hours": "Mo-Th 08:00-16:30; Fr 08:00-13:30",
+    "phone": "+62-361-235059",
+    "start_date": "1931",
+    "tourism": "museum",
+    "wikidata": "Q1992789",
+    "wikimedia_commons": "Category:Bali Museum",
+    "wikipedia": "en:Bali Museum",
+    "wikipedia:en": "Bali Museum"
+  }
+},
+{
+  "type": "way",
+  "id": 321773332,
+  "center": {
+    "lat": -8.5177346,
+    "lon": 115.2694030
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Puri Agung Peliatan",
+    "opening_hours": "Mo-Su 09:00-17:00",
+    "phone": "+62-361-975136",
+    "source": "Bing, Local knowledge",
+    "tourism": "museum",
+    "website": "https://www.mpl-ubud.com/",
+    "wikipedia": "en:Puri Lukisan Museum"
+  }
+},
+{
+  "type": "way",
+  "id": 326344517,
+  "center": {
+    "lat": -8.5518639,
+    "lon": 115.3868897
+  },
+  "tags": {
+    "addr:city": "Takmung, Banjarangkan, Takmung, Kec. Klungkung, Kabupaten Klungkung, Bali",
+    "addr:housenumber": "1",
+    "addr:postcode": "80716",
+    "addr:street": "Jl. Pertigaan Banda",
+    "building": "yes",
+    "museum": "art",
+    "name": "Museum Nyoman Gunarsa",
+    "opening_hours": "09:00-16:00",
+    "phone": "+62 36-622255",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 327943260,
+  "center": {
+    "lat": -8.6723201,
+    "lon": 115.2254265
+  },
+  "tags": {
+    "addr:city": "Denpasar",
+    "addr:street": "Raya Puputan",
+    "building": "yes",
+    "museum": "history",
+    "name": "Museum Agung Bung Karno",
+    "name:etymology:wikidata": "Q76127",
+    "name:etymology:wikipedia": "id:Sukarno",
+    "phone": "+6281384500092",
+    "tactile_paving": "no",
+    "tourism": "museum",
+    "wheelchair": "no",
+    "wikidata": "Q23808507"
+  }
+},
+{
+  "type": "way",
+  "id": 364067332,
+  "center": {
+    "lat": -8.4123597,
+    "lon": 115.5868583
+  },
+  "tags": {
+    "garden:type": "palace",
+    "layer": "-1",
+    "leisure": "garden",
+    "name": "Taman Tirtagangga",
+    "opening_hours": "07:00-18:00",
+    "religion": "hindu",
+    "tourism": "attraction",
+    "website": "https://www.tirtagangga.nl/"
+  }
+},
+{
+  "type": "way",
+  "id": 391619142,
+  "center": {
+    "lat": -8.4143998,
+    "lon": 115.3162235
+  },
+  "tags": {
+    "fee": "yes",
+    "landuse": "religious",
+    "name": "Pura Tirta Empul",
+    "opening_hours": "08:00-18:00",
+    "religion": "hindu",
+    "tourism": "attraction",
+    "wikidata": "Q7809287",
+    "wikipedia": "en:Tirta Empul"
+  }
+},
+{
+  "type": "way",
+  "id": 404236273,
+  "center": {
+    "lat": -8.8398011,
+    "lon": 115.0958874
+  },
+  "tags": {
+    "name": "Nyang Nyang",
+    "name:fr": "suluban beach",
+    "natural": "beach",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 419885966,
+  "center": {
+    "lat": -8.6046289,
+    "lon": 115.2804830
+  },
+  "tags": {
+    "landuse": "retail",
+    "name": "Pasar Seni Guwang",
+    "name:en": "Guwang Art Market",
+    "name:zh": "乌布传统市场",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 429030893,
+  "center": {
+    "lat": -8.4367636,
+    "lon": 115.5973829
+  },
+  "tags": {
+    "artwork_type": "architecture",
+    "building": "yes",
+    "name": "UD Wiradana Ukir",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "way",
+  "id": 460354872,
+  "center": {
+    "lat": -8.2717430,
+    "lon": 115.1553636
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Ethnobotany Museum",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 460359702,
+  "center": {
+    "lat": -8.2976607,
+    "lon": 115.1771108
+  },
+  "tags": {
+    "abandoned:building": "yes",
+    "alt_name": "Ghost Palace Hotel",
+    "building": "yes",
+    "name": "PI Bedugul Taman Rekreasi Hotel and Resort",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 466917206,
+  "center": {
+    "lat": -8.4836836,
+    "lon": 115.6168714
+  },
+  "tags": {
+    "name": "Bali Chocolate",
+    "shop": "confectionery",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 474491505,
+  "center": {
+    "lat": -8.5808533,
+    "lon": 115.3445358
+  },
+  "tags": {
+    "addr:street": "Jl. Profesor Ida Bagus Mantra",
+    "description": "Jl. Profesor Ida Bagus Mantra km 19,8, Serongga, Kec. Gianyar, Kabupaten Gianyar, Bali 80551",
+    "name": "Bali Safari & Marine Park",
+    "phone": "+62 1 500 212",
+    "tourism": "zoo",
+    "twitter": "@balisafari",
+    "website": "https://www.balisafarimarinepark.com/",
+    "wikidata": "Q4850846",
+    "wikimedia_commons": "Category:Bali Safari and Marine Park",
+    "wikipedia": "en:Bali Safari and Marine Park"
+  }
+},
+{
+  "type": "way",
+  "id": 474855529,
+  "center": {
+    "lat": -8.6196143,
+    "lon": 115.0879456
+  },
+  "tags": {
+    "image": "https://photos.app.goo.gl/KrmciDRH9ezBthfd8",
+    "name": "Snakes",
+    "tourism": "zoo",
+    "url": "https://youtu.be/BR03sF0cL8c?si=UdIjnezCbrwd4CR9"
+  }
+},
+{
+  "type": "way",
+  "id": 476960470,
+  "center": {
+    "lat": -8.5070165,
+    "lon": 115.2482561
+  },
+  "tags": {
+    "artwork_type": "painting",
+    "building": "yes",
+    "name": "JMd. Rajing, painter & collection",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "way",
+  "id": 476960472,
+  "center": {
+    "lat": -8.5031346,
+    "lon": 115.2506452
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Galerie Karja",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "way",
+  "id": 476960473,
+  "center": {
+    "lat": -8.5030550,
+    "lon": 115.2508572
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Santra Putra, Fine Art Galerie",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "way",
+  "id": 487360135,
+  "center": {
+    "lat": -8.3427909,
+    "lon": 115.6687091
+  },
+  "tags": {
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 491032246,
+  "center": {
+    "lat": -8.5193214,
+    "lon": 115.2930560
+  },
+  "tags": {
+    "addr:city": "Desa Bedulu, Kecamatan Balhbatuh, Kabupaten Gianyar",
+    "addr:postcode": "80581",
+    "addr:street": "Jln. Raya Tampaksiring",
+    "building": "yes",
+    "description": "Merupakan Museum cagar budaya dengan koleksi berupa benda-benda hasil penemuan dari berbagai daerah di Bali berupa Sarkofagus, beberapa peralatan masa megalitik, perunggu, manik-manik yang merupakan koleksi kantor BPCB Bali.",
+    "museum": "archaeological",
+    "name": "Museum Gedong Arca",
+    "opening_hours": "Mo-Fr 08:00-17:00",
+    "tactile_paving": "no",
+    "tourism": "museum",
+    "wheelchair": "yes",
+    "wikidata": "Q14917394"
+  }
+},
+{
+  "type": "way",
+  "id": 491507214,
+  "center": {
+    "lat": -8.6001304,
+    "lon": 115.2510299
+  },
+  "tags": {
+    "area": "yes",
+    "contact:facebook": "https://www.facebook.com/balibirdparkofficial",
+    "contact:instagram": "https://www.instagram.com/balibirdparkofficial/",
+    "email": "info@balibirdpark.com",
+    "name": "Taman Burung Bali",
+    "name:en": "Bali Bird Park",
+    "name:id": "Taman Burung Bali",
+    "opening_hours": "Mo-Su 09:00-17:30",
+    "phone": "+6283832038985",
+    "start_date": "1995",
+    "tourism": "zoo",
+    "website": "https://www.balibirdpark.com/",
+    "wikidata": "Q16744229",
+    "wikimedia_commons": "Category:Bali Bird Park",
+    "wikipedia": "en:Bali_Bird_Park",
+    "wikipedia:id": "Taman_burung_bali"
+  }
+},
+{
+  "type": "way",
+  "id": 496042621,
+  "center": {
+    "lat": -8.5380509,
+    "lon": 115.1263826
+  },
+  "tags": {
+    "addr:city": "Tabanan",
+    "addr:postcode": "82121",
+    "addr:street": "Jalan Danau Buyan",
+    "building": "yes",
+    "museum": "art",
+    "name": "Museum Sagung Wah",
+    "opening_hours": "Mo-Su 09:00-15:00",
+    "operator": "Public",
+    "operator:type": "public",
+    "phone": "+62 36-1811602",
+    "tactile_paving": "no",
+    "tourism": "museum",
+    "wheelchair": "no",
+    "wikidata": "Q115863118"
+  }
+},
+{
+  "type": "way",
+  "id": 500258096,
+  "center": {
+    "lat": -8.5437371,
+    "lon": 115.1706193
+  },
+  "tags": {
+    "addr:city": "Kabupaten Badung",
+    "addr:housenumber": "1",
+    "addr:postcode": "80351",
+    "addr:street": "Jalan Ayodia",
+    "building": "yes",
+    "image": "https://photos.app.goo.gl/dYMp4oghQdaHqhFY6",
+    "museum": "art",
+    "name": "The Ogoh Ogoh Bali Museum",
+    "name:en": "Ogoh-ogoh museum",
+    "opening_hours": "Mo-Su 09:00-18:00",
+    "operator": "Public",
+    "operator:type": "public",
+    "phone": "+62 813-3795-1854",
+    "tactile_paving": "no",
+    "tourism": "museum",
+    "url": "https://youtu.be/srT6NLp51-o",
+    "wheelchair": "no",
+    "wikipedia": "id:Museum Ogoh-ogoh"
+  }
+},
+{
+  "type": "way",
+  "id": 503890347,
+  "center": {
+    "lat": -8.5355506,
+    "lon": 115.4026697
+  },
+  "tags": {
+    "addr:city": "Semarapura",
+    "addr:postcode": "80761",
+    "addr:street": "Jalan Untung Surapati",
+    "building": "yes",
+    "image": "https://photos.app.goo.gl/arEyHfXchoh2sdp89",
+    "museum": "history",
+    "name": "Museum Semarajaya",
+    "operator": "Government",
+    "operator:type": "public",
+    "tactile_paving": "no",
+    "tourism": "museum",
+    "wheelchair": "no",
+    "wikidata": "Q14475767",
+    "wikimedia_commons": "Category:Museum Semarajaya",
+    "wikipedia": "en:Semarajaya Museum"
+  }
+},
+{
+  "type": "way",
+  "id": 520772696,
+  "center": {
+    "lat": -8.7248891,
+    "lon": 115.1783303
+  },
+  "tags": {
+    "amenity": "marketplace",
+    "landuse": "retail",
+    "name": "Pasar Senggol Kuta",
+    "name:en": "Kuta Night Market",
+    "name:zh": "库塔夜市",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 540610100,
+  "center": {
+    "lat": -8.3913836,
+    "lon": 115.6306310
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "Pura Penataran Agung Lempuyang",
+    "religion": "hindu",
+    "tourism": "attraction",
+    "wikidata": "Q47492282",
+    "wikimedia_commons": "Category:Pura Penataran Lempuyang",
+    "wikipedia": "en:Pura Penataran Agung Lempuyang"
+  }
+},
+{
+  "type": "way",
+  "id": 541244203,
+  "center": {
+    "lat": -8.4149413,
+    "lon": 115.3160257
+  },
+  "tags": {
+    "building": "yes",
+    "denomination": "hindu",
+    "name": "Templo Tirta Empul",
+    "name:en": "Tirta Empul Temple",
+    "name:ru": "храм Тирта Эмпул",
+    "opening_hours": "Mo-Su 07:00-18:00",
+    "religion": "hindu",
+    "tourism": "attraction",
+    "wikidata": "Q7809287",
+    "wikimedia_commons": "Category:Pura Tirta Empul",
+    "wikipedia": "en:Tirta Empul"
+  }
+},
+{
+  "type": "way",
+  "id": 544177708,
+  "center": {
+    "lat": -8.4803758,
+    "lon": 115.2066085
+  },
+  "tags": {
+    "name": "Sangeh",
+    "name:ban": "Taman Wisata Alam Sangeh",
+    "name:en": "Sangeh Monkey Forest",
+    "natural": "wood",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 544229221,
+  "center": {
+    "lat": -8.8141627,
+    "lon": 115.1666520
+  },
+  "tags": {
+    "height": "121",
+    "historic": "monument",
+    "name": "Garuda Wisnu Kencana",
+    "tourism": "attraction",
+    "wikidata": "Q12498977",
+    "wikipedia": "en:Garuda Wisnu Kencana statue"
+  }
+},
+{
+  "type": "way",
+  "id": 544229222,
+  "center": {
+    "lat": -8.8103903,
+    "lon": 115.1646218
+  },
+  "tags": {
+    "addr:city": "South Kuta, Badung , Bali",
+    "addr:postcode": "80364",
+    "addr:street": "Jl. Raya Uluwatu, Ungasan,",
+    "leisure": "park",
+    "name": "Taman Budaya Garuda Wisnu Kencana",
+    "name:en": "Garuda Wisnu Kencana Cultural Park",
+    "opening_hours": "Mo-Su 08:00-22:00",
+    "phone": "+62 36-1703603",
+    "tourism": "attraction",
+    "wikidata": "Q1132052",
+    "wikimedia_commons": "Category:Garuda Wisnu Kencana",
+    "wikipedia": "id:Taman Budaya Garuda Wisnu Kencana"
+  }
+},
+{
+  "type": "way",
+  "id": 544365791,
+  "center": {
+    "lat": -8.7990339,
+    "lon": 115.1252147
+  },
+  "tags": {
+    "name": "New Kuta Green Park",
+    "tourism": "theme_park"
+  }
+},
+{
+  "type": "way",
+  "id": 544657947,
+  "center": {
+    "lat": -8.5290222,
+    "lon": 115.3595191
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Introduction Hall (Entrance for Museum)",
+    "operator": "PT. Taman Nusa",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 565190564,
+  "center": {
+    "lat": -8.6995022,
+    "lon": 115.1767288
+  },
+  "tags": {
+    "addr:city": "Legian, Kuta, Kabupaten Badung, Bali",
+    "addr:housenumber": "33X",
+    "addr:postcode": "80361",
+    "addr:street": "Jl. Nakula",
+    "building": "yes",
+    "name": "DMZ Dream Museum Zone",
+    "phone": "+62 36-18496220",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 572503801,
+  "center": {
+    "lat": -8.4494573,
+    "lon": 115.2335962
+  },
+  "tags": {
+    "building": "yes",
+    "name": "NKRI Gallery",
+    "opening_hours": "Mo-Su 08:00-20:00",
+    "operator": "Ayung Resort",
+    "tourism": "gallery",
+    "website": "https://www.ayungresortubud.com/en-gb/art-gallery"
+  }
+},
+{
+  "type": "way",
+  "id": 578259096,
+  "center": {
+    "lat": -8.5302040,
+    "lon": 115.3602862
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Sapu Lidi Building",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 583047128,
+  "center": {
+    "lat": -8.5301778,
+    "lon": 115.3602499
+  },
+  "tags": {
+    "name": "Sapulidi Taman Nusa",
+    "operator": "Taman Nusa",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 593179442,
+  "center": {
+    "lat": -8.1248834,
+    "lon": 115.0967804
+  },
+  "tags": {
+    "addr:city": "Kabupaten Buleleng",
+    "addr:housenumber": "23",
+    "addr:postcode": "81118",
+    "addr:street": "Jalan Veteran",
+    "building": "yes",
+    "museum": "history",
+    "name": "Museum Buleleng",
+    "opening_hours": "Mo-Sa 08:00-16:00",
+    "operator": "Government",
+    "operator:type": "public",
+    "phone": "+62 36-23303368",
+    "tactile_paving": "no",
+    "tourism": "museum",
+    "wheelchair": "yes",
+    "wikidata": "Q97195094"
+  }
+},
+{
+  "type": "way",
+  "id": 594487994,
+  "center": {
+    "lat": -8.6845152,
+    "lon": 115.1668504
+  },
+  "tags": {
+    "addr:city": "Seminyak, Kabupaten Badung, Bali, Indonesia",
+    "addr:housenumber": "88",
+    "addr:street": "Jalan Raya Basangkasa",
+    "building": "yes",
+    "name": "Nyaman Gallery",
+    "phone": "+62 361 736226",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "way",
+  "id": 595299881,
+  "center": {
+    "lat": -8.4652728,
+    "lon": 115.1645042
+  },
+  "tags": {
+    "building": "yes",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 595554276,
+  "center": {
+    "lat": -8.5103488,
+    "lon": 115.2007837
+  },
+  "tags": {
+    "addr:city": "Kabupaten Badung",
+    "addr:postcode": "80352",
+    "addr:street": "Jalan Ayunan",
+    "building": "yes",
+    "museum": "art",
+    "name": "Museum Tjok Agung Tresna Ayunan",
+    "operator": "Public",
+    "operator:type": "public",
+    "tactile_paving": "no",
+    "tourism": "museum",
+    "wheelchair": "no",
+    "wikidata": "Q115863021"
+  }
+},
+{
+  "type": "way",
+  "id": 607037413,
+  "center": {
+    "lat": -8.1844400,
+    "lon": 115.0653180
+  },
+  "tags": {
+    "direction": "333",
+    "name": "Warung At 320m",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "way",
+  "id": 645447581,
+  "center": {
+    "lat": -8.5297440,
+    "lon": 115.3602503
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Museum Wayang, Kain & Exhibition",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 661665166,
+  "center": {
+    "lat": -8.5001252,
+    "lon": 115.2619258
+  },
+  "tags": {
+    "addr:city": "Ubud",
+    "addr:housenumber": "7",
+    "addr:postcode": "80571",
+    "addr:street": "Jalan Seni",
+    "building": "yes",
+    "name": "Balinese Paintings",
+    "operator": "Wayan",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "way",
+  "id": 706142389,
+  "center": {
+    "lat": -8.5049641,
+    "lon": 115.2544672
+  },
+  "tags": {
+    "access": "no",
+    "bridge": "yes",
+    "highway": "footway",
+    "layer": "1",
+    "name": "Old Suspension Bridge",
+    "surface": "wood",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 707659668,
+  "center": {
+    "lat": -8.8293931,
+    "lon": 115.0844098
+  },
+  "tags": {
+    "addr:city": "Bali, Indonesia",
+    "addr:postcode": "80361",
+    "addr:street": "Uluwatu",
+    "amenity": "place_of_worship",
+    "name": "Pura Luhur Uluwatu",
+    "name:de": "Uluwatu tempel",
+    "name:en": "Uluwatu Temple",
+    "name:fr": "Temple d’Uluwatu",
+    "name:ru": "Храм Пура Лухур Улувату",
+    "name:zh": "情人崖",
+    "opening_hours": "09:00-18:00",
+    "religion": "hindu",
+    "tourism": "attraction",
+    "wikidata": "Q1381933",
+    "wikimedia_commons": "Category:Pura Luhur Uluwatu",
+    "wikipedia": "en:Uluwatu Temple"
+  }
+},
+{
+  "type": "way",
+  "id": 709619834,
+  "center": {
+    "lat": -8.7335298,
+    "lon": 115.4490232
+  },
+  "tags": {
+    "intermittent": "yes",
+    "name": "Angel's Billabong",
+    "natural": "water",
+    "tourism": "attraction",
+    "water": "lagoon"
+  }
+},
+{
+  "type": "way",
+  "id": 711579137,
+  "center": {
+    "lat": -8.7705156,
+    "lon": 115.4968854
+  },
+  "tags": {
+    "location": "outdoor",
+    "name": "Kolam Tembeling",
+    "name:de": "Temeling Natürliche Badestelle",
+    "name:en": "Tembeling Natural Pool",
+    "natural": "water",
+    "tourism": "attraction",
+    "water": "pond"
+  }
+},
+{
+  "type": "way",
+  "id": 712521501,
+  "center": {
+    "lat": -8.5950523,
+    "lon": 115.3378402
+  },
+  "tags": {
+    "area": "yes",
+    "name": "Keramas Aero Park",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 719894242,
+  "center": {
+    "lat": -8.5721723,
+    "lon": 115.3278839
+  },
+  "tags": {
+    "leisure": "water_park",
+    "name": "Keramas Park",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 926173581,
+  "center": {
+    "lat": -8.7651331,
+    "lon": 115.1787955
+  },
+  "tags": {
+    "name": "Abandoned Plane",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 933753431,
+  "center": {
+    "lat": -8.7252813,
+    "lon": 115.2153963
+  },
+  "tags": {
+    "access": "no",
+    "leisure": "water_park",
+    "name": "Bali Wake Park",
+    "name:en": "Bali Wake Park",
+    "name:id": "Bali Wake Park",
+    "note": "Tutup sementara; Temporarily closed",
+    "sport": "water_ski",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 1091972002,
+  "center": {
+    "lat": -8.6597627,
+    "lon": 115.1719925
+  },
+  "tags": {
+    "landuse": "recreation_ground",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 1124775199,
+  "center": {
+    "lat": -8.5452767,
+    "lon": 115.1381225
+  },
+  "tags": {
+    "addr:city": "Kabupaten Tabanan",
+    "addr:postcode": "82121",
+    "addr:street": "Jalan Gatot Soebroto",
+    "building": "yes",
+    "museum": "history",
+    "name": "Museum Subak",
+    "opening_hours": "Mo-Fr 08:00-15:30",
+    "operator": "Government",
+    "operator:type": "public",
+    "phone": "+62 36-1810315",
+    "tactile_paving": "no",
+    "tourism": "museum",
+    "wheelchair": "no",
+    "wikidata": "Q31173235"
+  }
+},
+{
+  "type": "way",
+  "id": 1124782024,
+  "center": {
+    "lat": -8.6084966,
+    "lon": 115.2380955
+  },
+  "tags": {
+    "addr:city": "Denpasar",
+    "addr:housenumber": "108",
+    "addr:postcode": "80237",
+    "addr:street": "Jalan Trenggana",
+    "building": "yes",
+    "museum": "art",
+    "name": "Putrawan Museum of Art (PUMA)",
+    "opening_hours": "Mo-Su 09:00-17:00",
+    "operator": "Public",
+    "operator:type": "public",
+    "phone": "+62 36-1463737",
+    "tactile_paving": "no",
+    "tourism": "museum",
+    "wheelchair": "no",
+    "wikidata": "Q115863292"
+  }
+},
+{
+  "type": "way",
+  "id": 1183376796,
+  "center": {
+    "lat": -8.5728806,
+    "lon": 115.2869755
+  },
+  "tags": {
+    "addr:city": "Tegenungan",
+    "addr:postcode": "80582",
+    "addr:street": "Jalan Ir. Sutami",
+    "fee": "yes",
+    "mobile": "+6281138012266",
+    "name": "Kemenuh Butterfly Park, Bali",
+    "opening_hours": "Mo-Su 09:00-18:00",
+    "tourism": "zoo",
+    "website": "https://www.kemenuhbutterflypark.com/about.html"
+  }
+},
+{
+  "type": "way",
+  "id": 1183379411,
+  "center": {
+    "lat": -8.5741107,
+    "lon": 115.2866212
+  },
+  "tags": {
+    "addr:city": "Kemenuh",
+    "addr:postcode": "80582",
+    "addr:street": "Jalan Ir. Sutami",
+    "building": "yes",
+    "name": "Danastiti Painting",
+    "opening_hours": "Mo-Su 09:00-18:00",
+    "phone": "+6281337750808",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "way",
+  "id": 1286731383,
+  "center": {
+    "lat": -8.5029774,
+    "lon": 115.2602957
+  },
+  "tags": {
+    "highway": "living_street",
+    "motorcar": "no",
+    "motorcycle": "destination",
+    "name": "Rando Sweet Orange Walk Trail",
+    "surface": "dirt",
+    "tourism": "attraction",
+    "tracktype": "grade3",
+    "width": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 1326059095,
+  "center": {
+    "lat": -8.1850831,
+    "lon": 115.1087490
+  },
+  "tags": {
+    "area": "yes",
+    "name": "Maha hill rice terrace",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 1328284655,
+  "center": {
+    "lat": -8.2558955,
+    "lon": 115.0265978
+  },
+  "tags": {
+    "fee": "no",
+    "name": "Rice fields",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 1349928560,
+  "center": {
+    "lat": -8.6268752,
+    "lon": 115.0988438
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Nuanu Creative City",
+    "tourism": "theme_park",
+    "website": "https://www.nuanu.com/"
+  }
+},
+{
+  "type": "way",
+  "id": 1353154625,
+  "center": {
+    "lat": -8.4285510,
+    "lon": 115.2796976
+  },
+  "tags": {
+    "landuse": "farmland",
+    "name": "Mupu Rice Terrace",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 1409745517,
+  "center": {
+    "lat": -8.4218067,
+    "lon": 115.3587608
+  },
+  "tags": {
+    "addr:city": "Bali",
+    "addr:street": "Jl. Penglipuran, Kubu",
+    "addr:subdistrict": "Kec. Bangli,",
+    "landuse": "residential",
+    "residential": "rural",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 1447091502,
+  "center": {
+    "lat": -8.3023145,
+    "lon": 115.1586247
+  },
+  "tags": {
+    "name": "The Blooms Garden",
+    "tourism": "theme_park"
+  }
+},
+{
+  "type": "way",
+  "id": 1499017091,
+  "center": {
+    "lat": -8.8307467,
+    "lon": 115.0852479
+  },
+  "tags": {
+    "address": "Jl. Karang Boma, Pecatu, Uluwatu, Badung, Bali, Indonesia",
+    "name": "Sky Cliff Viewpoint Area",
+    "natural": "cliff",
+    "surface": "rock",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "way",
+  "id": 1507519314,
+  "center": {
+    "lat": -8.6750890,
+    "lon": 115.2636183
+  },
+  "tags": {
+    "addr:city": "Sanur",
+    "fee": "yes",
+    "museum": "history",
+    "name": "musuem le mayeur",
+    "opening_hours": "Su-Th 08:00-15:00; Fr 08:00-13:00",
+    "operator": "diva",
+    "operator:type": "private_non_profit",
+    "phone": "+62-361-286201",
+    "tourism": "museum",
+    "wheelchair": "no",
+    "wikidata": "Q6507227"
+  }
+},
+{
+  "type": "relation",
+  "id": 3498598,
+  "center": {
+    "lat": -8.7963288,
+    "lon": 115.2311065
+  },
+  "tags": {
+    "description": "Nusa Dua adalah sebuah kawasan resor bintang lima yang besar",
+    "description:en": "High-end Bali beach resort",
+    "name": "Pantai Nusa Dua",
+    "name:en": "Nusa Dua Beach",
+    "natural": "beach",
+    "tourism": "attraction",
+    "type": "multipolygon",
+    "wikidata": "Q277598",
+    "wikipedia": "id:Nusa Dua"
+  }
+},
+{
+  "type": "relation",
+  "id": 3579959,
+  "center": {
+    "lat": -8.7999121,
+    "lon": 115.2305614
+  },
+  "tags": {
+    "addr:city": "BTDC Complex Nusa Dua",
+    "addr:country": "ID",
+    "addr:housenumber": "777",
+    "addr:postcode": "80361",
+    "addr:street": "Jalan ITDCN Nusa Dua Lot BC",
+    "building": "yes",
+    "description": "Selected Artworks of Asia Pacific",
+    "name": "Museum Pasifika",
+    "opening_hours": "Mo-Su 10:00-18:00",
+    "operator": "Public",
+    "operator:type": "public",
+    "phone": "+62 361 774624",
+    "tactile_paving": "no",
+    "tourism": "museum",
+    "type": "multipolygon",
+    "website": "https://museum-pasifika.com/",
+    "wheelchair": "no",
+    "wikidata": "Q6940675",
+    "wikipedia:en": "Museum Pasifika"
+  }
+},
+{
+  "type": "relation",
+  "id": 6241812,
+  "center": {
+    "lat": -8.5962609,
+    "lon": 115.2824364
+  },
+  "tags": {
+    "addr:city": "Sukawati",
+    "addr:street": "Jalan Raya Sukawati",
+    "landuse": "retail",
+    "name": "Pasar Seni Sukawati",
+    "tourism": "attraction",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 7938316,
+  "center": {
+    "lat": -8.5309933,
+    "lon": 115.3595278
+  },
+  "tags": {
+    "addr:city": "Gianyar",
+    "addr:postcode": "80582",
+    "addr:street": "Jl. Taman Bali – Banjarangkan, Banjar Blahpane Kelod, Desa Sidan, Sidan, Kec. Gianyar, Kabupaten Gianyar, Bali",
+    "description": "Taman Nusa is an Indonesian cultural park that aims to offer a comprehensive and interactive experience on the cultures of Indonesia’s many ethnic groups, set against the natural backdrop of Bali. Situated on 15 hectares of land.",
+    "leisure": "park",
+    "name": "Taman Nusa Bali",
+    "source": "local knowledge",
+    "tourism": "attraction",
+    "type": "multipolygon",
+    "website": "https://www.taman-nusa.com/"
+  }
+},
+{
+  "type": "relation",
+  "id": 9037048,
+  "center": {
+    "lat": -8.2754772,
+    "lon": 115.1664571
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "image": "https://photos.app.goo.gl/VyPn7JxRv3Tp4fdd7",
+    "name": "Pura Ulun Danu Beratan",
+    "name:en": "Lake Beratan Temple",
+    "name:es": "Pura Ulun Danu",
+    "religion": "hindu",
+    "start_date": "17th Century",
+    "tourism": "attraction",
+    "type": "multipolygon",
+    "wikidata": "Q2220851",
+    "wikipedia": "en:Pura Ulun Danu Bratan"
+  }
+},
+{
+  "type": "relation",
+  "id": 9747883,
+  "center": {
+    "lat": -8.2549847,
+    "lon": 115.4025800
+  },
+  "tags": {
+    "heritage:operator": "whc",
+    "heritage:website": "https://whc.unesco.org/en/list/1194",
+    "name": "Danau Batur",
+    "name:ban": "ᬤᬦᬸᬩᬢᬸᬃ",
+    "name:en": "Lake Batur",
+    "name:id": "Danau Batur",
+    "natural": "water",
+    "ref:whc": "1194",
+    "tourism": "attraction",
+    "type": "multipolygon",
+    "water": "lake",
+    "whc:criteria": "(iii)(v)(vi)",
+    "whc:inscription_date": "2012",
+    "wikidata": "Q13511216",
+    "wikipedia": "en:Lake Batur"
+  }
+},
+{
+  "type": "relation",
+  "id": 9772789,
+  "center": {
+    "lat": -8.5051234,
+    "lon": 115.2603251
+  },
+  "tags": {
+    "addr:city": "Gianyar, Bali",
+    "addr:postcode": "80571",
+    "addr:street": "Jalan Raya Ubud",
+    "contact:website": "http://museumpurilukisan.com/",
+    "museum": "art",
+    "name": "Museum Puri Lukisan",
+    "name:zh": "鲁基桑美术馆",
+    "opening_hours": "Mo-Su 09:00-17:00",
+    "operator": "Public",
+    "operator:type": "public",
+    "phone": "+62-361-975136",
+    "tactile_paving": "no",
+    "tourism": "museum",
+    "type": "multipolygon",
+    "wheelchair": "no",
+    "wikidata": "Q7261229",
+    "wikipedia": "en:Puri Lukisan Museum"
+  }
+},
+{
+  "type": "relation",
+  "id": 9785933,
+  "center": {
+    "lat": -8.5229923,
+    "lon": 115.2645727
+  },
+  "tags": {
+    "addr:city": "Ubud, Kabupaten Gianyar, Bali",
+    "addr:postcode": "80571",
+    "addr:street": "Raya Pengosekan",
+    "building": "yes",
+    "building:levels": "2",
+    "museum": "art",
+    "name": "Agung Rai Museum of Art (ARMA)",
+    "name:en": "Agung Rai Museum of Art (ARMA)",
+    "opening_hours": "Mo-Su 09:00-18:00",
+    "operator": "Public",
+    "operator:type": "public",
+    "phone": "+62361976659",
+    "tactile_paving": "no",
+    "tourism": "museum",
+    "type": "multipolygon",
+    "website": "https://www.armabali.com/",
+    "wheelchair": "no",
+    "wikidata": "Q398622"
+  }
+},
+{
+  "type": "relation",
+  "id": 9869698,
+  "center": {
+    "lat": -8.7512669,
+    "lon": 115.4730141
+  },
+  "tags": {
+    "name": "Kelingking Beach",
+    "natural": "beach",
+    "surface": "sand",
+    "tourism": "attraction",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 9869701,
+  "center": {
+    "lat": -8.7331321,
+    "lon": 115.4508110
+  },
+  "tags": {
+    "name": "Pasih Uwug",
+    "name:en": "Broken Beach",
+    "natural": "water",
+    "tourism": "attraction",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 15046234,
+  "center": {
+    "lat": -8.4919680,
+    "lon": 115.2537266
+  },
+  "tags": {
+    "addr:city": "Gianyar",
+    "addr:postcode": "80571",
+    "addr:street": "Raya Sanggingan",
+    "artwork_type": "painting",
+    "building": "yes",
+    "fee": "yes",
+    "museum": "art",
+    "name": "Neka Art Museum",
+    "opening_hours": "09:00-17:00",
+    "operator": "Public",
+    "operator:type": "public",
+    "phone": "+62-361-975034",
+    "tactile_paving": "no",
+    "toilets": "yes",
+    "tourism": "museum",
+    "type": "multipolygon",
+    "wheelchair": "no",
+    "wikidata": "Q924394"
+  }
+},
+{
+  "type": "relation",
+  "id": 15046250,
+  "center": {
+    "lat": -8.1673636,
+    "lon": 114.4406890
+  },
+  "tags": {
+    "building": "yes",
+    "museum": "history",
+    "name": "Museum Manusia Purba Gilimanuk",
+    "opening_hours": "Mo-Fr 08:00-17:00",
+    "operator": "Goverment",
+    "operator:type": "public",
+    "tactile_paving": "no",
+    "tourism": "museum",
+    "type": "multipolygon",
+    "wheelchair": "no",
+    "wikidata": "Q108945830"
+  }
+},
+{
+  "type": "relation",
+  "id": 17840124,
+  "center": {
+    "lat": -8.6547818,
+    "lon": 115.1248805
+  },
+  "tags": {
+    "addr:housenumber": "03",
+    "addr:postcode": "80351",
+    "addr:street": "jalan Munduk Kedungu",
+    "email": "othreecafe@gmail.com",
+    "name": "Echo Beach",
+    "name:en": "Othree Beach Bar",
+    "natural": "beach",
+    "note": "precise boundary with next beach name not known",
+    "opening_hours": "Mo-Su 07:00-13:00, 14:00-20:00",
+    "phone": "+628123658474",
+    "tourism": "attraction",
+    "type": "multipolygon",
+    "website": "https://www.othreebeachbar.com/"
+  }
+}
+
+  ]
+}
