@@ -1,0 +1,10 @@
+﻿No,Pemeriksaan,Status,Bukti
+1,Sumber data bersifat publik,Ya,Data diambil dari OpenStreetMap
+2,Ketentuan penggunaan sumber diperhatikan,Perlu verifikasi,Perlu memeriksa ketentuan penggunaan Overpass API
+3,Lisensi dan atribusi dicantumkan,Ya,ODbL dan atribusi dicantumkan dalam provenance
+4,Tidak mengambil data pribadi,Ya,Tidak mengambil nama atau kontak pribadi
+5,Hanya mengambil data yang diperlukan,Ya,"Mengambil nama, kategori, dan koordinat destinasi"
+6,Tidak melakukan request berulang berlebihan,Ya,Pengambilan dilakukan dengan satu request
+7,User-Agent mencantumkan nama dan email kampus,Ya,Header User-Agent berisi nama dan email kampus
+8,Tidak menyimpan API key atau kata sandi,Ya,Tidak menggunakan API key atau kata sandi
+9,Data mentah dan provenance disimpan,Ya,File JSON dan provenance berhasil disimpan
