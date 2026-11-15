@@ -1,1 +1,15 @@
-
+{
+  "nama_berkas": "openstreetmap_bali_20261115.json",
+  "ukuran_bytes": 157866,
+  "hash_md5": "38c253c3786de8d92598205f86b92469",
+  "sumber": "OpenStreetMap melalui Overpass API",
+  "url": "https://overpass-api.de/api/interpreter",
+  "lisensi": "Open Database License (ODbL)",
+  "atribusi": "© OpenStreetMap contributors",
+  "waktu_akuisisi_wita": "2026-11-15T20:53:28.627256+08:00",
+  "pengambil_data": "Fransiska Cerlis Oda",
+  "nim": "2501010235",
+  "jumlah_objek_mentah": 756,
+  "jumlah_record_csv": 553,
+  "jumlah_kolom": 6
+}
